@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NPF CBT Mock Exam</title>
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230f2a4a'/%3E%3Crect y='50' width='64' height='14' rx='0' fill='%231b7f4b'/%3E%3Ctext x='32' y='40' font-family='Arial,sans-serif' font-size='26' font-weight='bold' fill='white' text-anchor='middle'%3ENPF%3C/text%3E%3C/svg%3E"
+    />
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
+    <!-- ============ WELCOME ============ -->
+    <section id="view-welcome" class="view is-active">
+      <div class="welcome-card">
+        <header class="brand">
+          <div class="brand-badge">NPF</div>
+          <div>
+            <h1>Police Service Commission</h1>
+            <p class="brand-sub">CBT Mock Exam &middot; 2025/2026 NPF Preparation</p>
+          </div>
+        </header>
+
+        <div class="field">
+          <label for="candidate-name">Enter your full name to begin</label>
+          <input
+            id="candidate-name"
+            type="text"
+            placeholder="e.g. Amina Okafor"
+            autocomplete="name"
+            maxlength="60"
+          />
+        </div>
+
+        <div class="field">
+          <label>Choose your test</label>
+          <div id="mode-list" class="mode-list" role="radiogroup" aria-label="Exam mode">
+            <!-- mode cards injected -->
+          </div>
+        </div>
+
+        <p id="welcome-error" class="error" hidden></p>
+
+        <button id="start-btn" class="btn btn-primary btn-block">
+          Start Exam
+        </button>
+        <p class="fine-print">
+          Questions and options are shuffled for every attempt. The timer starts
+          immediately and the test submits automatically when time runs out.
+        </p>
+      </div>
+    </section>
+
+    <!-- ============ EXAM ============ -->
+    <section id="view-exam" class="view">
+      <header class="exam-bar">
+        <div class="exam-bar-left">
+          <span class="exam-bar-badge">NPF</span>
+          <div>
+            <div id="exam-candidate" class="exam-candidate"></div>
+            <div id="exam-mode" class="exam-mode-label"></div>
+          </div>
+        </div>
+        <div class="exam-bar-right">
+          <div class="progress-pill">
+            <span id="answered-count">0</span>/<span id="total-count">0</span>
+            answered
+          </div>
+          <div id="timer" class="timer" aria-live="polite">--:--</div>
+        </div>
+      </header>
+
+      <div class="exam-body">
+        <aside class="navigator" aria-label="Question navigator">
+          <div class="navigator-title">Questions</div>
+          <div id="nav-grid" class="nav-grid"></div>
+          <div class="nav-legend">
+            <span><i class="dot dot-answered"></i> Answered</span>
+            <span><i class="dot dot-current"></i> Current</span>
+            <span><i class="dot dot-empty"></i> Unseen</span>
+          </div>
+          <button id="submit-btn" class="btn btn-submit btn-block">
+            Submit Exam
+          </button>
+        </aside>
+
+        <main class="question-panel">
+          <div class="question-card">
+            <div class="question-head">
+              <span id="q-number" class="q-number">1</span>
+              <span id="q-category" class="q-category"></span>
+            </div>
+            <p id="q-text" class="q-text"></p>
+            <div id="q-choices" class="choices"></div>
+          </div>
+
+          <div class="question-nav">
+            <button id="prev-btn" class="btn btn-ghost">&larr; Previous</button>
+            <button id="next-btn" class="btn btn-ghost">Next &rarr;</button>
+          </div>
+        </main>
+      </div>
+    </section>
+
+    <!-- ============ RESULTS ============ -->
+    <section id="view-results" class="view">
+      <div class="results-card">
+        <div class="results-hero">
+          <div id="score-ring" class="score-ring">
+            <span id="score-percent" class="score-percent">0%</span>
+          </div>
+          <div class="results-hero-text">
+            <h2 id="results-name">Well done</h2>
+            <p id="results-verdict" class="results-verdict"></p>
+            <p id="results-meta" class="results-meta"></p>
+          </div>
+        </div>
+
+        <div class="stat-row">
+          <div class="stat stat-correct">
+            <span id="stat-correct" class="stat-num">0</span>
+            <span class="stat-label">Correct</span>
+          </div>
+          <div class="stat stat-incorrect">
+            <span id="stat-incorrect" class="stat-num">0</span>
+            <span class="stat-label">Incorrect</span>
+          </div>
+          <div class="stat stat-skipped">
+            <span id="stat-unanswered" class="stat-num">0</span>
+            <span class="stat-label">Unanswered</span>
+          </div>
+        </div>
+
+        <div class="breakdown">
+          <h3>By category</h3>
+          <div id="category-breakdown"></div>
+        </div>
+
+        <details class="review">
+          <summary>Review answers</summary>
+          <div id="review-list" class="review-list"></div>
+        </details>
+
+        <button id="restart-btn" class="btn btn-primary btn-block">
+          Take another test
+        </button>
+      </div>
+    </section>
+
+    <script type="module" src="js/app.js"></script>
+  </body>
+</html>

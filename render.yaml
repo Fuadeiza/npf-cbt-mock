@@ -1,0 +1,13 @@
+# Render Blueprint — https://render.com/docs/blueprint-spec
+# On render.com: New -> Blueprint -> connect this repo. Render reads this file,
+# builds the Dockerfile, and provisions the service automatically.
+services:
+  - type: web
+    name: npf-cbt-mock
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    plan: free
+    region: frankfurt # closest free region to Nigeria for lower latency
+    numInstances: 1 # REQUIRED: attempts are stored in memory (never scale >1)
+    healthCheckPath: /health
+    autoDeploy: true # redeploy automatically on every push to the default branch

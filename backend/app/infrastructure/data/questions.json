@@ -1,0 +1,3390 @@
+[
+  {
+    "id": 1,
+    "number": 1,
+    "category": "English",
+    "text": "Which of the following words is misspelled?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Liaise"
+      },
+      {
+        "key": "B",
+        "text": "Government"
+      },
+      {
+        "key": "C",
+        "text": "Chauffeur"
+      },
+      {
+        "key": "D",
+        "text": "Peice"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 2,
+    "number": 2,
+    "category": "English",
+    "text": "Which of the following words is misspelled?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Forward"
+      },
+      {
+        "key": "B",
+        "text": "Threshold"
+      },
+      {
+        "key": "C",
+        "text": "Bizzare"
+      },
+      {
+        "key": "D",
+        "text": "Foreign"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 3,
+    "number": 3,
+    "category": "General Knowledge",
+    "text": "The full meaning of NPC is?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Nigeria Police Commission"
+      },
+      {
+        "key": "B",
+        "text": "National Policy Committee"
+      },
+      {
+        "key": "C",
+        "text": "Nigeria Police Council"
+      },
+      {
+        "key": "D",
+        "text": "Nigeria Petroleum Commission"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 4,
+    "number": 4,
+    "category": "English",
+    "text": "Choose the option nearest in meaning to the asterisked word or phrase: Though David's condition is *serious*, his life is not in immediate danger.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Grave"
+      },
+      {
+        "key": "B",
+        "text": "Nasty"
+      },
+      {
+        "key": "C",
+        "text": "Dangerous"
+      },
+      {
+        "key": "D",
+        "text": "Hypertensive"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 5,
+    "number": 5,
+    "category": "Mathematics",
+    "text": "The smallest number such that when it is divided by 8 has a remainder of 6 and when it is divided by 9 has a remainder of 7 is?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "90"
+      },
+      {
+        "key": "B",
+        "text": "70"
+      },
+      {
+        "key": "C",
+        "text": "80"
+      },
+      {
+        "key": "D",
+        "text": "60"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 6,
+    "number": 6,
+    "category": "General Knowledge",
+    "text": "The First indigenous Inspector General of the Nigeria Police Force was?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Teslim Balogun"
+      },
+      {
+        "key": "B",
+        "text": "Louis Edet"
+      },
+      {
+        "key": "C",
+        "text": "Ademola Adetokunbo"
+      },
+      {
+        "key": "D",
+        "text": "Mike Okiro"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 7,
+    "number": 7,
+    "category": "General Knowledge",
+    "text": "In order to qualify for the post of the president in Nigeria, the person must be ......... and above.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "35 Years"
+      },
+      {
+        "key": "B",
+        "text": "20 years"
+      },
+      {
+        "key": "C",
+        "text": "40 years"
+      },
+      {
+        "key": "D",
+        "text": "55 years"
+      }
+    ],
+    "answer": "A",
+    "confidence": "low",
+    "note": "Current law (Not-Too-Young-To-Run Act 2018) sets 35; older materials say 40 (option C).",
+    "practice": false
+  },
+  {
+    "id": 8,
+    "number": 8,
+    "category": "General Knowledge",
+    "text": "What is the full meaning of IGP?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Inspector General of People"
+      },
+      {
+        "key": "B",
+        "text": "In charge of General Public"
+      },
+      {
+        "key": "C",
+        "text": "Inspector General of Police"
+      },
+      {
+        "key": "D",
+        "text": "Institute of General people"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 9,
+    "number": 9,
+    "category": "General Knowledge",
+    "text": "What is the full meaning of NPF?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "National Police Formation"
+      },
+      {
+        "key": "B",
+        "text": "Nigeria People Forum"
+      },
+      {
+        "key": "C",
+        "text": "Nigeria Public Forms"
+      },
+      {
+        "key": "D",
+        "text": "Nigeria Police Force"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 10,
+    "number": 10,
+    "category": "General Knowledge",
+    "text": "When did Nigeria get her Independence?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "1st October, 1940"
+      },
+      {
+        "key": "B",
+        "text": "1st October, 1860"
+      },
+      {
+        "key": "C",
+        "text": "October 1st, 1946"
+      },
+      {
+        "key": "D",
+        "text": "October 1st, 1960"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 11,
+    "number": 11,
+    "category": "General Knowledge",
+    "text": "What is the Nigeria Police Force Motto?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Police is your Security"
+      },
+      {
+        "key": "B",
+        "text": "Police is your Guard"
+      },
+      {
+        "key": "C",
+        "text": "People Safety"
+      },
+      {
+        "key": "D",
+        "text": "Police is your Friend"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 12,
+    "number": 12,
+    "category": "General Knowledge",
+    "text": "When was Nigeria Police Force (NPF) Established?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "1935"
+      },
+      {
+        "key": "B",
+        "text": "1930"
+      },
+      {
+        "key": "C",
+        "text": "1830"
+      },
+      {
+        "key": "D",
+        "text": "1835"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 13,
+    "number": 13,
+    "category": "General Knowledge",
+    "text": "The First African country to introduce e-passport was?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "South Africa"
+      },
+      {
+        "key": "B",
+        "text": "Ghana"
+      },
+      {
+        "key": "C",
+        "text": "Liberia"
+      },
+      {
+        "key": "D",
+        "text": "Nigeria"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 14,
+    "number": 14,
+    "category": "Mathematics",
+    "text": "If David's age is 27 years old in 2011, what was his age in 2003?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "17 years"
+      },
+      {
+        "key": "B",
+        "text": "37 years"
+      },
+      {
+        "key": "C",
+        "text": "20 years"
+      },
+      {
+        "key": "D",
+        "text": "19 years"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 15,
+    "number": 15,
+    "category": "General Knowledge",
+    "text": "The appointment to the office of the Inspector General of Police (IGP) is done through?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Election"
+      },
+      {
+        "key": "B",
+        "text": "Nomination"
+      },
+      {
+        "key": "C",
+        "text": "Appointment"
+      },
+      {
+        "key": "D",
+        "text": "Academic Qualification"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 16,
+    "number": 16,
+    "category": "General Knowledge",
+    "text": "The release of a person from legal custody by a written agreement that he shall appear at the time and place designated and submit himself to the jurisdiction of the court is known as?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Bail"
+      },
+      {
+        "key": "B",
+        "text": "Acquit"
+      },
+      {
+        "key": "C",
+        "text": "Release"
+      },
+      {
+        "key": "D",
+        "text": "Partial discharge"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 17,
+    "number": 17,
+    "category": "General Knowledge",
+    "text": "Nigeria became 36 states under the regime of?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Olusegun Obasanjo"
+      },
+      {
+        "key": "B",
+        "text": "Sani Abacha"
+      },
+      {
+        "key": "C",
+        "text": "Ibrahim Babangida"
+      },
+      {
+        "key": "D",
+        "text": "Yakubu Gowon"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 18,
+    "number": 18,
+    "category": "General Knowledge",
+    "text": "The Bank that controls all other banks in Nigeria is?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Central Bank"
+      },
+      {
+        "key": "B",
+        "text": "First Bank"
+      },
+      {
+        "key": "C",
+        "text": "Agricultural Bank"
+      },
+      {
+        "key": "D",
+        "text": "Unity Bank"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 19,
+    "number": 19,
+    "category": "General Knowledge",
+    "text": "What is the main concern of the police as a tool for safety?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Maintenance of public peace"
+      },
+      {
+        "key": "B",
+        "text": "Indiscriminate arrest of citizens"
+      },
+      {
+        "key": "C",
+        "text": "Punishing offenders with detention"
+      },
+      {
+        "key": "D",
+        "text": "Collecting money and killing criminals"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 20,
+    "number": 20,
+    "category": "General Knowledge",
+    "text": "Who was the first indigenous Inspector General of Police?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Adams Smith"
+      },
+      {
+        "key": "B",
+        "text": "Solomon Arase"
+      },
+      {
+        "key": "C",
+        "text": "Louis Edet"
+      },
+      {
+        "key": "D",
+        "text": "Tafa Balogun"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 21,
+    "number": 21,
+    "category": "General Knowledge",
+    "text": "Police orderlies are attached to VIPs to ......... for them.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Provide shade"
+      },
+      {
+        "key": "B",
+        "text": "Open car doors"
+      },
+      {
+        "key": "C",
+        "text": "Provide security"
+      },
+      {
+        "key": "D",
+        "text": "Become bag carriers"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 22,
+    "number": 22,
+    "category": "General Knowledge",
+    "text": "One of the following is not a duty of a Police Officer!",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Torturing of suspects"
+      },
+      {
+        "key": "B",
+        "text": "Investigation of persons"
+      },
+      {
+        "key": "C",
+        "text": "Arresting of suspects"
+      },
+      {
+        "key": "D",
+        "text": "Persecution of accused persons"
+      }
+    ],
+    "answer": "A",
+    "confidence": "low",
+    "note": "Both A (torture) and D (persecution) are not legitimate duties; A is the intended answer.",
+    "practice": false
+  },
+  {
+    "id": 23,
+    "number": 23,
+    "category": "General Knowledge",
+    "text": "Who is the first Executive President of Nigeria?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Alh. Muhammadu Buhari"
+      },
+      {
+        "key": "B",
+        "text": "Alh. Murtala Abubakar"
+      },
+      {
+        "key": "C",
+        "text": "Alh. Shehu Shagari"
+      },
+      {
+        "key": "D",
+        "text": "Alh. Yahaya Suleiman"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 24,
+    "number": 24,
+    "category": "General Knowledge",
+    "text": "Name the Government agency that supervises the affairs of the Nigeria Police Force?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Police Service Organization (PSO)"
+      },
+      {
+        "key": "B",
+        "text": "Ministry of Police Affairs (MPA)"
+      },
+      {
+        "key": "C",
+        "text": "Nigeria Police Council (NPC)"
+      },
+      {
+        "key": "D",
+        "text": "Police Service Commission (PSC)"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 25,
+    "number": 25,
+    "category": "Current Affairs",
+    "text": "Who is the present Chief of Defence Staff?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Bello Matawalle"
+      },
+      {
+        "key": "B",
+        "text": "Mohammed Badaru Abubakar"
+      },
+      {
+        "key": "C",
+        "text": "Gen. Christopher Musa"
+      },
+      {
+        "key": "D",
+        "text": "Dogara David"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 26,
+    "number": 26,
+    "category": "Current Affairs",
+    "text": "Current Minister of Finance is?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Wale Edun"
+      },
+      {
+        "key": "B",
+        "text": "Bola Ahmed Tinubu"
+      },
+      {
+        "key": "C",
+        "text": "Bashiru Babangida"
+      },
+      {
+        "key": "D",
+        "text": "Wale Shola"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 27,
+    "number": 27,
+    "category": "Current Affairs",
+    "text": "Who is the current Speaker of the Nigeria House of Representatives?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Tajudeen Abbas"
+      },
+      {
+        "key": "B",
+        "text": "Tijjani Umar"
+      },
+      {
+        "key": "C",
+        "text": "Abubakar Yusuf"
+      },
+      {
+        "key": "D",
+        "text": "Garba Kabiru"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 28,
+    "number": 28,
+    "category": "General Knowledge",
+    "text": "When did Nigeria become a Republic?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "October 1st, 1960"
+      },
+      {
+        "key": "B",
+        "text": "October 1st, 1963"
+      },
+      {
+        "key": "C",
+        "text": "October 1st, 1966"
+      },
+      {
+        "key": "D",
+        "text": "October 1st, 1980"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 29,
+    "number": 29,
+    "category": "General Knowledge",
+    "text": "What year did the Nigeria Civil War start?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Started 1967"
+      },
+      {
+        "key": "B",
+        "text": "Started 1976"
+      },
+      {
+        "key": "C",
+        "text": "Started 1986"
+      },
+      {
+        "key": "D",
+        "text": "Started 1966"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 30,
+    "number": 30,
+    "category": "General Knowledge",
+    "text": "Which year was the Nigeria Flag designed and who designed it?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Mr. Taiwo Akinkunmi in 1959"
+      },
+      {
+        "key": "B",
+        "text": "Mr. Afolabi Shola in 1983"
+      },
+      {
+        "key": "C",
+        "text": "Mr. Hammanbello Abubakar in 1987"
+      },
+      {
+        "key": "D",
+        "text": "Mr. Goodnews Babakunle in 1960"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 31,
+    "number": 31,
+    "category": "General Knowledge",
+    "text": "The Nigeria Female National football team nickname is called?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Super Eagles"
+      },
+      {
+        "key": "B",
+        "text": "Super Falcons"
+      },
+      {
+        "key": "C",
+        "text": "Super Hawks"
+      },
+      {
+        "key": "D",
+        "text": "Super Heroes"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 32,
+    "number": 32,
+    "category": "General Knowledge",
+    "text": "What does the 'E' in EFCC stand for?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Exceed"
+      },
+      {
+        "key": "B",
+        "text": "Economic"
+      },
+      {
+        "key": "C",
+        "text": "Eliminate"
+      },
+      {
+        "key": "D",
+        "text": "Encourage"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 33,
+    "number": 33,
+    "category": "General Knowledge",
+    "text": "What year did the Nigeria Civil War end?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Ended 15th January, 1970"
+      },
+      {
+        "key": "B",
+        "text": "Ended 15th February, 1975"
+      },
+      {
+        "key": "C",
+        "text": "Ended 15th December, 1970"
+      },
+      {
+        "key": "D",
+        "text": "Ended 15th January, 2023"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 34,
+    "number": 34,
+    "category": "General Knowledge",
+    "text": "In the process of implementing laws, the Executive sometimes performs?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Oversight functions"
+      },
+      {
+        "key": "B",
+        "text": "Legislative functions"
+      },
+      {
+        "key": "C",
+        "text": "Bureaucratic functions"
+      },
+      {
+        "key": "D",
+        "text": "Judicial functions"
+      }
+    ],
+    "answer": "D",
+    "confidence": "low",
+    "note": "Debatable; delegated legislation (B) is also defended. Quasi-judicial (D) is the common textbook answer.",
+    "practice": false
+  },
+  {
+    "id": 35,
+    "number": 35,
+    "category": "Mathematics",
+    "text": "If 5^x = a and 5^y = b, then ab = ?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "5xy"
+      },
+      {
+        "key": "B",
+        "text": "5^(x+y)"
+      },
+      {
+        "key": "C",
+        "text": "10^(x+y)"
+      },
+      {
+        "key": "D",
+        "text": "25xy"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 36,
+    "number": 36,
+    "category": "General Knowledge",
+    "text": "The following people are exempted from criminal responsibility except?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "President"
+      },
+      {
+        "key": "B",
+        "text": "Immature age"
+      },
+      {
+        "key": "C",
+        "text": "Rapist"
+      },
+      {
+        "key": "D",
+        "text": "Judicial officer"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 37,
+    "number": 37,
+    "category": "General Knowledge",
+    "text": "The killing of a human being by another human being is?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Suicide"
+      },
+      {
+        "key": "B",
+        "text": "Murder"
+      },
+      {
+        "key": "C",
+        "text": "Abortion"
+      },
+      {
+        "key": "D",
+        "text": "Homicide"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 38,
+    "number": 38,
+    "category": "General Knowledge",
+    "text": "The following are parts of a computer except?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Mouse"
+      },
+      {
+        "key": "B",
+        "text": "Keyboard"
+      },
+      {
+        "key": "C",
+        "text": "Monitor"
+      },
+      {
+        "key": "D",
+        "text": "Guitar"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 39,
+    "number": 39,
+    "category": "General Knowledge",
+    "text": "What is the function of the key Ctrl + X in Microsoft Word?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Cut"
+      },
+      {
+        "key": "B",
+        "text": "Copy"
+      },
+      {
+        "key": "C",
+        "text": "Paste"
+      },
+      {
+        "key": "D",
+        "text": "Xander"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 40,
+    "number": 40,
+    "category": "English",
+    "text": "David likes English ......... than Social Studies.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Much"
+      },
+      {
+        "key": "B",
+        "text": "Best"
+      },
+      {
+        "key": "C",
+        "text": "Better"
+      },
+      {
+        "key": "D",
+        "text": "Least"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 41,
+    "number": 41,
+    "category": "General Knowledge",
+    "text": "What is the function of the key Ctrl + P on a computer?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Paste"
+      },
+      {
+        "key": "B",
+        "text": "Print"
+      },
+      {
+        "key": "C",
+        "text": "Power"
+      },
+      {
+        "key": "D",
+        "text": "Put"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 42,
+    "number": 42,
+    "category": "Mathematics",
+    "text": "A number is greater than 3 but less than 8, and the number is greater than 6 but less than 10. What is the number?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "5"
+      },
+      {
+        "key": "B",
+        "text": "6"
+      },
+      {
+        "key": "C",
+        "text": "7"
+      },
+      {
+        "key": "D",
+        "text": "8"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 43,
+    "number": 43,
+    "category": "Mathematics",
+    "text": "I am a number, I have 7 in the ones place. I am less than 80 but greater than 70. What is my number?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "71"
+      },
+      {
+        "key": "B",
+        "text": "73"
+      },
+      {
+        "key": "C",
+        "text": "75"
+      },
+      {
+        "key": "D",
+        "text": "77"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 44,
+    "number": 44,
+    "category": "General Knowledge",
+    "text": "Who said that “Man is a political animal”?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Aristotle"
+      },
+      {
+        "key": "B",
+        "text": "Karl Marx"
+      },
+      {
+        "key": "C",
+        "text": "Lenin"
+      },
+      {
+        "key": "D",
+        "text": "Plato"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 45,
+    "number": 45,
+    "category": "General Knowledge",
+    "text": "The Green colour of the Nigerian Flag represents?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Beauty"
+      },
+      {
+        "key": "B",
+        "text": "Peace"
+      },
+      {
+        "key": "C",
+        "text": "Agriculture"
+      },
+      {
+        "key": "D",
+        "text": "Strength"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 46,
+    "number": 46,
+    "category": "General Knowledge",
+    "text": "Fifty Naira was introduced in?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "27th August, 1991"
+      },
+      {
+        "key": "B",
+        "text": "4th April, 1996"
+      },
+      {
+        "key": "C",
+        "text": "15th June, 1991"
+      },
+      {
+        "key": "D",
+        "text": "6th March, 1996"
+      }
+    ],
+    "answer": "A",
+    "confidence": "low",
+    "note": "The N50 note was introduced in 1991; the exact date among the options is uncertain.",
+    "practice": false
+  },
+  {
+    "id": 47,
+    "number": 47,
+    "category": "General Knowledge",
+    "text": "The First Nigerian whose portrait was shown on the Naira Note is?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Abubakar Tafawa Balewa"
+      },
+      {
+        "key": "B",
+        "text": "Ahmadu Bello"
+      },
+      {
+        "key": "C",
+        "text": "Gen. Murtala Mohammed"
+      },
+      {
+        "key": "D",
+        "text": "Nnamdi Azikiwe"
+      }
+    ],
+    "answer": "C",
+    "confidence": "low",
+    "note": "The 1977 N20 note (Murtala Mohammed) was the first Nigerian currency to bear a Nigerian's portrait.",
+    "practice": false
+  },
+  {
+    "id": 48,
+    "number": 48,
+    "category": "General Knowledge",
+    "text": "The Naira Note was introduced to replace the Pound in?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "1973"
+      },
+      {
+        "key": "B",
+        "text": "1976"
+      },
+      {
+        "key": "C",
+        "text": "1961"
+      },
+      {
+        "key": "D",
+        "text": "1963"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 49,
+    "number": 49,
+    "category": "General Knowledge",
+    "text": "One of these involves the ability to distinguish right from wrong and to behave accordingly.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Immorality"
+      },
+      {
+        "key": "B",
+        "text": "Morality"
+      },
+      {
+        "key": "C",
+        "text": "Fanaticism"
+      },
+      {
+        "key": "D",
+        "text": "Satanism"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 50,
+    "number": 50,
+    "category": "General Knowledge",
+    "text": "Which of these Nigerian States has the lowest number of Local Governments?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Nasarawa state"
+      },
+      {
+        "key": "B",
+        "text": "Delta state"
+      },
+      {
+        "key": "C",
+        "text": "Bayelsa state"
+      },
+      {
+        "key": "D",
+        "text": "Abia state"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 51,
+    "number": 51,
+    "category": "General Knowledge",
+    "text": "A condition for judicial independence is the appointment of Judges by the?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "1979 Constitution"
+      },
+      {
+        "key": "B",
+        "text": "Judicial Service Commission"
+      },
+      {
+        "key": "C",
+        "text": "Civil Service Commission"
+      },
+      {
+        "key": "D",
+        "text": "Law Review Commission"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 52,
+    "number": 52,
+    "category": "General Knowledge",
+    "text": "EFCC was established to?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Arrest, detain and prosecute corrupt states"
+      },
+      {
+        "key": "B",
+        "text": "Arrest and try corrupt politicians"
+      },
+      {
+        "key": "C",
+        "text": "Assist the World Bank in monitoring economic projects in Nigeria"
+      },
+      {
+        "key": "D",
+        "text": "Combat Economic and Financial Crime in Nigeria"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 53,
+    "number": 53,
+    "category": "General Knowledge",
+    "text": "The Legislature performs the following functions except?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Determines the general direction of public policy"
+      },
+      {
+        "key": "B",
+        "text": "Enforcing the law"
+      },
+      {
+        "key": "C",
+        "text": "Exercises power of appointment of Government officials"
+      },
+      {
+        "key": "D",
+        "text": "Investigating and monitoring the activities of the officials of Government"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 54,
+    "number": 54,
+    "category": "General Knowledge",
+    "text": "The branch of Government responsible for implementing laws is the?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Judiciary"
+      },
+      {
+        "key": "B",
+        "text": "Legislature"
+      },
+      {
+        "key": "C",
+        "text": "Executive"
+      },
+      {
+        "key": "D",
+        "text": "Police"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 55,
+    "number": 55,
+    "category": "General Knowledge",
+    "text": "When did Nigeria's Golden Eaglets win the World Under-17 FIFA Cup for the first time?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "1985"
+      },
+      {
+        "key": "B",
+        "text": "1986"
+      },
+      {
+        "key": "C",
+        "text": "1987"
+      },
+      {
+        "key": "D",
+        "text": "1982"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 56,
+    "number": 56,
+    "category": "General Knowledge",
+    "text": "What Ocean borders Nigeria?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Pacific Ocean"
+      },
+      {
+        "key": "B",
+        "text": "Indian Ocean"
+      },
+      {
+        "key": "C",
+        "text": "Atlantic Ocean"
+      },
+      {
+        "key": "D",
+        "text": "Yola River Benue"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 57,
+    "number": 57,
+    "category": "General Knowledge",
+    "text": "What is the National Flower of Nigeria?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Hibiscus"
+      },
+      {
+        "key": "B",
+        "text": "Yellow Trumpet (Costus spectabilis)"
+      },
+      {
+        "key": "C",
+        "text": "Rose"
+      },
+      {
+        "key": "D",
+        "text": "Green"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 58,
+    "number": 58,
+    "category": "General Knowledge",
+    "text": "When was the National Youth Service Corps (NYSC) introduced in Nigeria?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "1960"
+      },
+      {
+        "key": "B",
+        "text": "1963"
+      },
+      {
+        "key": "C",
+        "text": "1973"
+      },
+      {
+        "key": "D",
+        "text": "1982"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 59,
+    "number": 59,
+    "category": "General Knowledge",
+    "text": "Where is the source of River Niger?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Guinea Highlands"
+      },
+      {
+        "key": "B",
+        "text": "Niger State"
+      },
+      {
+        "key": "C",
+        "text": "Niger Republic"
+      },
+      {
+        "key": "D",
+        "text": "Cameroon Republic"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 60,
+    "number": 60,
+    "category": "General Knowledge",
+    "text": "When did Nigeria relocate its Capital to Abuja?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "January 12, 1991"
+      },
+      {
+        "key": "B",
+        "text": "June 12, 1991"
+      },
+      {
+        "key": "C",
+        "text": "December 12, 1991"
+      },
+      {
+        "key": "D",
+        "text": "November 30, 1983"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 61,
+    "number": 61,
+    "category": "General Knowledge",
+    "text": "The first storey building in Nigeria was built in?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Badagry"
+      },
+      {
+        "key": "B",
+        "text": "Asaba"
+      },
+      {
+        "key": "C",
+        "text": "Kano"
+      },
+      {
+        "key": "D",
+        "text": "Yola"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 62,
+    "number": 62,
+    "category": "General Knowledge",
+    "text": "How many languages have been spoken in Nigeria?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "230"
+      },
+      {
+        "key": "B",
+        "text": "520"
+      },
+      {
+        "key": "C",
+        "text": "300"
+      },
+      {
+        "key": "D",
+        "text": "150"
+      }
+    ],
+    "answer": "B",
+    "confidence": "low",
+    "note": "Estimates vary (commonly cited as over 500); 520 is the intended option.",
+    "practice": false
+  },
+  {
+    "id": 63,
+    "number": 63,
+    "category": "General Knowledge",
+    "text": "Bonny Light is a type of Nigerian?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Crude Oil"
+      },
+      {
+        "key": "B",
+        "text": "Local Beer"
+      },
+      {
+        "key": "C",
+        "text": "Palm Oil"
+      },
+      {
+        "key": "D",
+        "text": "Food"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 64,
+    "number": 64,
+    "category": "General Knowledge",
+    "text": "What State is nicknamed the “Centre of Commerce”?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Gombe State"
+      },
+      {
+        "key": "B",
+        "text": "Kano State"
+      },
+      {
+        "key": "C",
+        "text": "Lagos State"
+      },
+      {
+        "key": "D",
+        "text": "Adamawa State"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 65,
+    "number": 65,
+    "category": "General Knowledge",
+    "text": "What is the first private university in Nigeria?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Igbinedion University"
+      },
+      {
+        "key": "B",
+        "text": "Covenant University"
+      },
+      {
+        "key": "C",
+        "text": "Al-Qalam University"
+      },
+      {
+        "key": "D",
+        "text": "Modibbo Adama University"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 66,
+    "number": 66,
+    "category": "General Knowledge",
+    "text": "What is the official name of the Third Mainland Bridge?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Olusegun Obasanjo Bridge"
+      },
+      {
+        "key": "B",
+        "text": "Ibrahim Babangida Bridge"
+      },
+      {
+        "key": "C",
+        "text": "Bola Ahmed Tinubu Bridge"
+      },
+      {
+        "key": "D",
+        "text": "Fintiri Air Bridge"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 67,
+    "number": 67,
+    "category": "General Knowledge",
+    "text": "Central Bank of Nigeria (CBN) was established in what year?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "1950"
+      },
+      {
+        "key": "B",
+        "text": "1959"
+      },
+      {
+        "key": "C",
+        "text": "1923"
+      },
+      {
+        "key": "D",
+        "text": "1969"
+      }
+    ],
+    "answer": "B",
+    "confidence": "low",
+    "note": "CBN was created by the 1958 Act and commenced operations in 1959; 1959 is the closest option.",
+    "practice": false
+  },
+  {
+    "id": 68,
+    "number": 68,
+    "category": "General Knowledge",
+    "text": "Nigeria is divided into how many geopolitical zones?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "4"
+      },
+      {
+        "key": "B",
+        "text": "6"
+      },
+      {
+        "key": "C",
+        "text": "8"
+      },
+      {
+        "key": "D",
+        "text": "21"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 69,
+    "number": 69,
+    "category": "Current Affairs",
+    "text": "The most populated country in the world is?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "China"
+      },
+      {
+        "key": "B",
+        "text": "America"
+      },
+      {
+        "key": "C",
+        "text": "India"
+      },
+      {
+        "key": "D",
+        "text": "Nigeria"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 70,
+    "number": 70,
+    "category": "General Knowledge",
+    "text": "The largest island in the world is?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Greenland"
+      },
+      {
+        "key": "B",
+        "text": "Yellow Land"
+      },
+      {
+        "key": "C",
+        "text": "Blue Land"
+      },
+      {
+        "key": "D",
+        "text": "Brown Land"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 71,
+    "number": 71,
+    "category": "General Knowledge",
+    "text": "The Nigerian to win a Nobel Laureate is?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Prof. Yakubu Gowon"
+      },
+      {
+        "key": "B",
+        "text": "Prof. Wole Soyinka"
+      },
+      {
+        "key": "C",
+        "text": "Prof. Buhari Haruna"
+      },
+      {
+        "key": "D",
+        "text": "Prof. Hananiah David"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 72,
+    "number": 72,
+    "category": "General Knowledge",
+    "text": "Who formed the first political party in Nigeria?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Herbert Macaulay"
+      },
+      {
+        "key": "B",
+        "text": "Oyinka Oluse"
+      },
+      {
+        "key": "C",
+        "text": "Murtala Mohammed"
+      },
+      {
+        "key": "D",
+        "text": "Yar'adua Shuaibu"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 73,
+    "number": 73,
+    "category": "General Knowledge",
+    "text": "What was the first political party in Nigeria?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "PDP"
+      },
+      {
+        "key": "B",
+        "text": "APC"
+      },
+      {
+        "key": "C",
+        "text": "NRC"
+      },
+      {
+        "key": "D",
+        "text": "NNDP"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 74,
+    "number": 74,
+    "category": "General Knowledge",
+    "text": "What does the Eagle in the Nigeria Coat of Arms represent?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Bird"
+      },
+      {
+        "key": "B",
+        "text": "Strength"
+      },
+      {
+        "key": "C",
+        "text": "Power"
+      },
+      {
+        "key": "D",
+        "text": "Flying"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 75,
+    "number": 75,
+    "category": "General Knowledge",
+    "text": "What does the White colour in the Nigerian Flag stand for?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "War"
+      },
+      {
+        "key": "B",
+        "text": "Peace"
+      },
+      {
+        "key": "C",
+        "text": "Light"
+      },
+      {
+        "key": "D",
+        "text": "Love"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 76,
+    "number": 76,
+    "category": "General Knowledge",
+    "text": "Who gave Nigeria her name?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "General Sani Abacha"
+      },
+      {
+        "key": "B",
+        "text": "General Murtala Mohammed"
+      },
+      {
+        "key": "C",
+        "text": "Flora Shaw"
+      },
+      {
+        "key": "D",
+        "text": "President Olusegun Obasanjo"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 77,
+    "number": 77,
+    "category": "General Knowledge",
+    "text": "Who was the first man to buy a car in Nigeria?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Taison Benga"
+      },
+      {
+        "key": "B",
+        "text": "Akande Babatola"
+      },
+      {
+        "key": "C",
+        "text": "Bob Jensen"
+      },
+      {
+        "key": "D",
+        "text": "Reuben Bitrus"
+      }
+    ],
+    "answer": "C",
+    "confidence": "low",
+    "note": "Obscure/unverifiable claim; answer is a best guess.",
+    "practice": false
+  },
+  {
+    "id": 78,
+    "number": 78,
+    "category": "General Knowledge",
+    "text": "How many Local Governments do we have in Nigeria?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "744"
+      },
+      {
+        "key": "B",
+        "text": "774"
+      },
+      {
+        "key": "C",
+        "text": "747"
+      },
+      {
+        "key": "D",
+        "text": "784"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 79,
+    "number": 79,
+    "category": "General Knowledge",
+    "text": "Democracy Day is celebrated in Nigeria on?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "October 1st"
+      },
+      {
+        "key": "B",
+        "text": "January 12th"
+      },
+      {
+        "key": "C",
+        "text": "May 29th"
+      },
+      {
+        "key": "D",
+        "text": "June 12th"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 80,
+    "number": 80,
+    "category": "General Knowledge",
+    "text": "How many members make up the Senate in the Upper arm of the National Assembly?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "100"
+      },
+      {
+        "key": "B",
+        "text": "108"
+      },
+      {
+        "key": "C",
+        "text": "109"
+      },
+      {
+        "key": "D",
+        "text": "110"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 81,
+    "number": 81,
+    "category": "General Knowledge",
+    "text": "The Nigerian Flag was created by?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Mr. Aina Onabolu"
+      },
+      {
+        "key": "B",
+        "text": "Prof. Wole Soyinka"
+      },
+      {
+        "key": "C",
+        "text": "Taiwo Akinkunmi"
+      },
+      {
+        "key": "D",
+        "text": "Ben Odiase"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 82,
+    "number": 82,
+    "category": "General Knowledge",
+    "text": "Who was the first Military Head of State?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Gen. Murtala Muhammad"
+      },
+      {
+        "key": "B",
+        "text": "Gen. Ibrahim Babangida"
+      },
+      {
+        "key": "C",
+        "text": "Gen. Aguiyi Ironsi"
+      },
+      {
+        "key": "D",
+        "text": "Gen. Idiagbon"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 83,
+    "number": 83,
+    "category": "General Knowledge",
+    "text": "Who stopped the killing of twins in Calabar?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Henry Townsend"
+      },
+      {
+        "key": "B",
+        "text": "Herbert Macaulay"
+      },
+      {
+        "key": "C",
+        "text": "Mungo Park"
+      },
+      {
+        "key": "D",
+        "text": "Mary Slessor"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 84,
+    "number": 84,
+    "category": "General Knowledge",
+    "text": "The Economic Community of West African States (ECOWAS) was established in what year?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "May, 1975"
+      },
+      {
+        "key": "B",
+        "text": "May, 1963"
+      },
+      {
+        "key": "C",
+        "text": "May, 1966"
+      },
+      {
+        "key": "D",
+        "text": "May, 2000"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 85,
+    "number": 85,
+    "category": "General Knowledge",
+    "text": "Which State is referred to as “The Sunshine State”?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Ekiti State"
+      },
+      {
+        "key": "B",
+        "text": "Ondo State"
+      },
+      {
+        "key": "C",
+        "text": "Jigawa State"
+      },
+      {
+        "key": "D",
+        "text": "Adamawa State"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 86,
+    "number": 86,
+    "category": "General Knowledge",
+    "text": "The Nigeria Flag was designed by Taiwo Akinkunmi in what year?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "1957"
+      },
+      {
+        "key": "B",
+        "text": "1959"
+      },
+      {
+        "key": "C",
+        "text": "1960"
+      },
+      {
+        "key": "D",
+        "text": "1963"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 87,
+    "number": 87,
+    "category": "General Knowledge",
+    "text": "The State with the least number of Local Governments in Nigeria is?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Zamfara"
+      },
+      {
+        "key": "B",
+        "text": "Lagos"
+      },
+      {
+        "key": "C",
+        "text": "Bayelsa"
+      },
+      {
+        "key": "D",
+        "text": "Adamawa"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 88,
+    "number": 88,
+    "category": "General Knowledge",
+    "text": "Which State is referred to as “The Gateway State”?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Ekiti State"
+      },
+      {
+        "key": "B",
+        "text": "Ogun State"
+      },
+      {
+        "key": "C",
+        "text": "Jigawa State"
+      },
+      {
+        "key": "D",
+        "text": "Adamawa State"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 89,
+    "number": 89,
+    "category": "Current Affairs",
+    "text": "What is the full name of the present IGP?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "IGP Babatola Afolabi Adeninyi"
+      },
+      {
+        "key": "B",
+        "text": "IGP Olukayode Adeolu Egbetokun"
+      },
+      {
+        "key": "C",
+        "text": "IGP M.D. Abubakar"
+      },
+      {
+        "key": "D",
+        "text": "IGP Akande Sikiru Kayode"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 90,
+    "number": 90,
+    "category": "General Knowledge",
+    "text": "Who discovered River Niger?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Mungo Park"
+      },
+      {
+        "key": "B",
+        "text": "Mary Soliso"
+      },
+      {
+        "key": "C",
+        "text": "Murtala Mohammed"
+      },
+      {
+        "key": "D",
+        "text": "Shehu Shagari"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 91,
+    "number": 91,
+    "category": "General Knowledge",
+    "text": "The Highest Mountain in Africa is?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Mount Sinai in Cameroon"
+      },
+      {
+        "key": "B",
+        "text": "Mount Zachous in Ghana"
+      },
+      {
+        "key": "C",
+        "text": "Mount Kilimanjaro in Tanzania"
+      },
+      {
+        "key": "D",
+        "text": "Mount Sheba in India"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 92,
+    "number": 92,
+    "category": "General Knowledge",
+    "text": "The Largest River in the World (from the given options) is?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Titanic River"
+      },
+      {
+        "key": "B",
+        "text": "Mississippi River"
+      },
+      {
+        "key": "C",
+        "text": "River Benue"
+      },
+      {
+        "key": "D",
+        "text": "Kiri Dam"
+      }
+    ],
+    "answer": "B",
+    "confidence": "low",
+    "note": "Flawed item: the true largest rivers (Amazon/Nile) are not listed; Mississippi is the best of the options.",
+    "practice": false
+  },
+  {
+    "id": 93,
+    "number": 93,
+    "category": "General Knowledge",
+    "text": "The largest City in the World (from the given options) is?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Lagos"
+      },
+      {
+        "key": "B",
+        "text": "New York"
+      },
+      {
+        "key": "C",
+        "text": "Accra, Ghana"
+      },
+      {
+        "key": "D",
+        "text": "Dubai"
+      }
+    ],
+    "answer": "A",
+    "confidence": "low",
+    "note": "Flawed item: none of these is the world's largest city; Lagos is the best of the options.",
+    "practice": false
+  },
+  {
+    "id": 94,
+    "number": 94,
+    "category": "General Knowledge",
+    "text": "The Coldest Country in the World (from the given options) is?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Pakistan"
+      },
+      {
+        "key": "B",
+        "text": "India"
+      },
+      {
+        "key": "C",
+        "text": "Russia"
+      },
+      {
+        "key": "D",
+        "text": "Nigeria"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 95,
+    "number": 95,
+    "category": "General Knowledge",
+    "text": "The largest river in Nigeria is?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "River Benue"
+      },
+      {
+        "key": "B",
+        "text": "River Niger"
+      },
+      {
+        "key": "C",
+        "text": "River Osun"
+      },
+      {
+        "key": "D",
+        "text": "River Kiri"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 96,
+    "number": 96,
+    "category": "General Knowledge",
+    "text": "The smallest continent in the world is?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Australia"
+      },
+      {
+        "key": "B",
+        "text": "Russia"
+      },
+      {
+        "key": "C",
+        "text": "South Africa"
+      },
+      {
+        "key": "D",
+        "text": "China"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 97,
+    "number": 97,
+    "category": "Current Affairs",
+    "text": "Who is the current Chairman of the Police Service Commission (PSC)?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Rtd. IGP Solomon Arase"
+      },
+      {
+        "key": "B",
+        "text": "Rtd. IGP M.D. Abubakar"
+      },
+      {
+        "key": "C",
+        "text": "Rtd. IGP Mohammed Abubakar"
+      },
+      {
+        "key": "D",
+        "text": "Mr. Shola Akiniyi"
+      }
+    ],
+    "answer": "A",
+    "confidence": "low",
+    "note": "Solomon Arase chaired the PSC from 2023; verify against the current office holder before the exam.",
+    "practice": false
+  },
+  {
+    "id": 98,
+    "number": 98,
+    "category": "English",
+    "text": "Choose the best word: The words of his resignation letter ......... that he was unhappy with several former colleagues.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Signified"
+      },
+      {
+        "key": "B",
+        "text": "Implied"
+      },
+      {
+        "key": "C",
+        "text": "Involved"
+      },
+      {
+        "key": "D",
+        "text": "Inferred"
+      }
+    ],
+    "answer": "B",
+    "confidence": "low",
+    "note": "Both 'implied' and 'signified' fit; 'implied' is the more idiomatic answer.",
+    "practice": false
+  },
+  {
+    "id": 99,
+    "number": 99,
+    "category": "English",
+    "text": "Choose the best word: We understand it's late and we don't mean to ........., but we have some important questions for you.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Inconvenience"
+      },
+      {
+        "key": "B",
+        "text": "Impose"
+      },
+      {
+        "key": "C",
+        "text": "Interrupt"
+      },
+      {
+        "key": "D",
+        "text": "Interfere"
+      }
+    ],
+    "answer": "B",
+    "confidence": "low",
+    "note": "'Impose' is the idiomatic fit; 'interrupt'/'inconvenience' are defensible.",
+    "practice": false
+  },
+  {
+    "id": 100,
+    "number": 100,
+    "category": "English",
+    "text": "Which of the following words is misspelled?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Liaise"
+      },
+      {
+        "key": "B",
+        "text": "Government"
+      },
+      {
+        "key": "C",
+        "text": "Chauffeur"
+      },
+      {
+        "key": "D",
+        "text": "Piece"
+      }
+    ],
+    "answer": "D",
+    "confidence": "low",
+    "note": "Flawed item: all four words are spelled correctly here (compare Q1's 'Peice').",
+    "practice": false
+  },
+  {
+    "id": 101,
+    "number": 101,
+    "category": "Mathematics",
+    "text": "The average of the first 50 natural numbers is?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "25.30"
+      },
+      {
+        "key": "B",
+        "text": "25.5"
+      },
+      {
+        "key": "C",
+        "text": "25.00"
+      },
+      {
+        "key": "D",
+        "text": "12.25"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": true
+  },
+  {
+    "id": 102,
+    "number": 102,
+    "category": "Mathematics",
+    "text": "What is 1004 divided by 2?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "52"
+      },
+      {
+        "key": "B",
+        "text": "502"
+      },
+      {
+        "key": "C",
+        "text": "520"
+      },
+      {
+        "key": "D",
+        "text": "5002"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": true
+  },
+  {
+    "id": 103,
+    "number": 103,
+    "category": "Mathematics",
+    "text": "A clock strikes once at 1 o'clock, twice at 2 o'clock, thrice at 3 o'clock and so on. How many times will it strike in 24 hours?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "48"
+      },
+      {
+        "key": "B",
+        "text": "136"
+      },
+      {
+        "key": "C",
+        "text": "156"
+      },
+      {
+        "key": "D",
+        "text": "196"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": true
+  },
+  {
+    "id": 104,
+    "number": 104,
+    "category": "General Knowledge",
+    "text": "The First General Secretary was?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Obafemi Awolowo"
+      },
+      {
+        "key": "B",
+        "text": "Nnamdi Azikiwe"
+      },
+      {
+        "key": "C",
+        "text": "Ufong Ekaete"
+      },
+      {
+        "key": "D",
+        "text": "Michael Okpara"
+      }
+    ],
+    "answer": "B",
+    "confidence": "low",
+    "note": "Question is ambiguous (of which body?); answer is a best guess.",
+    "practice": true
+  },
+  {
+    "id": 105,
+    "number": 105,
+    "category": "General Knowledge",
+    "text": "In 1945, ......... currency was introduced in Nigeria.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Naira and kobo"
+      },
+      {
+        "key": "B",
+        "text": "Pound sterling"
+      },
+      {
+        "key": "C",
+        "text": "Dollar"
+      },
+      {
+        "key": "D",
+        "text": "CFA"
+      }
+    ],
+    "answer": "B",
+    "confidence": "low",
+    "note": "The West African Pound was in use; the specific 1945 claim is uncertain.",
+    "practice": true
+  },
+  {
+    "id": 106,
+    "number": 106,
+    "category": "General Knowledge",
+    "text": "The Naira Note was introduced to replace the Pound in?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "1973"
+      },
+      {
+        "key": "B",
+        "text": "1976"
+      },
+      {
+        "key": "C",
+        "text": "1961"
+      },
+      {
+        "key": "D",
+        "text": "1963"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": true
+  },
+  {
+    "id": 107,
+    "number": 107,
+    "category": "General Knowledge",
+    "text": "Fifty Naira was introduced in?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "27th August, 1991"
+      },
+      {
+        "key": "B",
+        "text": "4th April, 1996"
+      },
+      {
+        "key": "C",
+        "text": "15th June, 1991"
+      },
+      {
+        "key": "D",
+        "text": "6th March, 1996"
+      }
+    ],
+    "answer": "A",
+    "confidence": "low",
+    "note": "The N50 note was introduced in 1991; exact date among options is uncertain.",
+    "practice": true
+  },
+  {
+    "id": 108,
+    "number": 108,
+    "category": "General Knowledge",
+    "text": "The Green colour of the Nigerian flag represents?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Beauty"
+      },
+      {
+        "key": "B",
+        "text": "Peace"
+      },
+      {
+        "key": "C",
+        "text": "Agriculture"
+      },
+      {
+        "key": "D",
+        "text": "Strength"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": true
+  },
+  {
+    "id": 109,
+    "number": 109,
+    "category": "General Knowledge",
+    "text": "The First University Graduate Inspector General of Police was?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Abubakar Rilwan"
+      },
+      {
+        "key": "B",
+        "text": "Tafa Balogun"
+      },
+      {
+        "key": "C",
+        "text": "Ogbonnaya Onovo"
+      },
+      {
+        "key": "D",
+        "text": "Mike Okiro"
+      }
+    ],
+    "answer": "B",
+    "confidence": "low",
+    "note": "Uncertain; answer is a best guess among the options.",
+    "practice": true
+  },
+  {
+    "id": 110,
+    "number": 110,
+    "category": "General Knowledge",
+    "text": "The Nigerian whose portrait is shown on the 5 Naira note is?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Abubakar Tafawa Balewa"
+      },
+      {
+        "key": "B",
+        "text": "Ahmadu Bello"
+      },
+      {
+        "key": "C",
+        "text": "Gen. Murtala Mohammed"
+      },
+      {
+        "key": "D",
+        "text": "Nnamdi Azikiwe"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": true
+  },
+  {
+    "id": 111,
+    "number": 111,
+    "category": "English",
+    "text": "The Police ......... four States in pursuit of the bank robber.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Crossed"
+      },
+      {
+        "key": "B",
+        "text": "Journeyed"
+      },
+      {
+        "key": "C",
+        "text": "Chased"
+      },
+      {
+        "key": "D",
+        "text": "Travelled"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": true
+  },
+  {
+    "id": 112,
+    "number": 112,
+    "category": "Mathematics",
+    "text": "A number is greater than 3 but less than 8, and also greater than 6 but less than 10. What is the number?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "5"
+      },
+      {
+        "key": "B",
+        "text": "6"
+      },
+      {
+        "key": "C",
+        "text": "7"
+      },
+      {
+        "key": "D",
+        "text": "8"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": true
+  },
+  {
+    "id": 113,
+    "number": 113,
+    "category": "General Knowledge",
+    "text": "Which of the following traditional Nigerian societies practised systems of checks and balances?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Tiv"
+      },
+      {
+        "key": "B",
+        "text": "Yoruba"
+      },
+      {
+        "key": "C",
+        "text": "Hausa"
+      },
+      {
+        "key": "D",
+        "text": "Igbo"
+      }
+    ],
+    "answer": "B",
+    "confidence": "low",
+    "note": "Both Yoruba (Oyo Mesi) and Igbo (republican) are cited; Yoruba is the common textbook answer.",
+    "practice": true
+  },
+  {
+    "id": 114,
+    "number": 114,
+    "category": "Mathematics",
+    "text": "If David's age is 27 years old in 2011, what was his age in 2003?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "17 Years"
+      },
+      {
+        "key": "B",
+        "text": "37 Years"
+      },
+      {
+        "key": "C",
+        "text": "20 Years"
+      },
+      {
+        "key": "D",
+        "text": "18 Years"
+      }
+    ],
+    "answer": "D",
+    "confidence": "low",
+    "note": "Flawed item: the correct value is 19, which is not an option; 18 is the closest.",
+    "practice": true
+  },
+  {
+    "id": 115,
+    "number": 115,
+    "category": "Mathematics",
+    "text": "What is the remainder of 21 divided by 7?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "21"
+      },
+      {
+        "key": "B",
+        "text": "7"
+      },
+      {
+        "key": "C",
+        "text": "1"
+      },
+      {
+        "key": "D",
+        "text": "None of these"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": true
+  },
+  {
+    "id": 116,
+    "number": 116,
+    "category": "Mathematics",
+    "text": "What is 7% equal to?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "0.007"
+      },
+      {
+        "key": "B",
+        "text": "0.07"
+      },
+      {
+        "key": "C",
+        "text": "0.7"
+      },
+      {
+        "key": "D",
+        "text": "7"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": true
+  },
+  {
+    "id": 117,
+    "number": 117,
+    "category": "General Knowledge",
+    "text": "What is the full meaning of C.R.O. in Nigeria Police circles?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Charge Room Office"
+      },
+      {
+        "key": "B",
+        "text": "Change Remained Offline"
+      },
+      {
+        "key": "C",
+        "text": "Charge Room Officer"
+      },
+      {
+        "key": "D",
+        "text": "Council Reform Office"
+      }
+    ],
+    "answer": "C",
+    "confidence": "low",
+    "note": "Interpretation varies within the Force; 'Charge Room Officer' is the intended answer.",
+    "practice": true
+  },
+  {
+    "id": 118,
+    "number": 118,
+    "category": "General Knowledge",
+    "text": "What State is nicknamed the “Land of Beauty”?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Gombe State"
+      },
+      {
+        "key": "B",
+        "text": "Lagos"
+      },
+      {
+        "key": "C",
+        "text": "Cross River State"
+      },
+      {
+        "key": "D",
+        "text": "Adamawa State"
+      }
+    ],
+    "answer": "A",
+    "confidence": "low",
+    "note": "Nicknames vary; answer is a best guess among the options.",
+    "practice": true
+  },
+  {
+    "id": 119,
+    "number": 119,
+    "category": "General Knowledge",
+    "text": "Who was the First Military Head of State?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Gen. Murtala Muhammad"
+      },
+      {
+        "key": "B",
+        "text": "Gen. Ibrahim Babangida"
+      },
+      {
+        "key": "C",
+        "text": "Gen. Aguiyi Ironsi"
+      },
+      {
+        "key": "D",
+        "text": "Gen. Idiagbon"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": true
+  },
+  {
+    "id": 120,
+    "number": 120,
+    "category": "General Knowledge",
+    "text": "What is the full meaning of IPPIS?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Intelligent Penalty Pay Inspection Service"
+      },
+      {
+        "key": "B",
+        "text": "Investment People Party Insurance Scheme"
+      },
+      {
+        "key": "C",
+        "text": "Integrated Payroll and People Information Service"
+      },
+      {
+        "key": "D",
+        "text": "Integrated Payroll and Personnel Information System"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": true
+  },
+  {
+    "id": 121,
+    "number": 121,
+    "category": "General Knowledge",
+    "text": "Identify the Nigeria Police colours.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Green White Green"
+      },
+      {
+        "key": "B",
+        "text": "Green Blue White"
+      },
+      {
+        "key": "C",
+        "text": "Blue Yellow Green"
+      },
+      {
+        "key": "D",
+        "text": "Green Yellow Blue"
+      }
+    ],
+    "answer": "D",
+    "confidence": "low",
+    "note": "Uncertain; answer is a best guess among the options.",
+    "practice": true
+  }
+]
