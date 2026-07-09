@@ -16,7 +16,9 @@ questions against a countdown, and get a scored breakdown at the end.
   breakdown, and a full answer review.
 - **Anti-cheat** — correct answers never leave the server; the browser only
   sees opaque option tokens until the exam is submitted.
-- **121 questions** compiled from the source PDF (100 exam + 21 practice).
+- **301 questions** across six categories — General Knowledge, Mathematics,
+  English, Current Affairs, Criminal Law, and Police Duties — compiled from the
+  original CBT PDF plus the Criminal Law and Police Duties question sets.
 
 ## Architecture
 
@@ -80,8 +82,10 @@ pytest
 
 ## The answer key
 
-The source PDF has **no answer key**, so answers were derived best-effort. The
-23 uncertain/ambiguous/flawed items are documented in
+The Criminal Law and Police Duties sets ship **with** answers (used verbatim);
+the original CBT PDF had **none**, so those answers were derived best-effort.
+The **40 uncertain/ambiguous/reconstructed/flawed items** (and the handful
+skipped on import) are documented in
 [`ANSWER_KEY_REVIEW.md`](ANSWER_KEY_REVIEW.md). To correct any answer, edit the
 `answer` field (letter `A`–`D`) of the question in
 `backend/app/infrastructure/data/questions.json` and restart the backend.

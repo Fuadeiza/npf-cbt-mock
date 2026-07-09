@@ -2940,90 +2940,6 @@
     "practice": true
   },
   {
-    "id": 106,
-    "number": 106,
-    "category": "General Knowledge",
-    "text": "The Naira Note was introduced to replace the Pound in?",
-    "choices": [
-      {
-        "key": "A",
-        "text": "1973"
-      },
-      {
-        "key": "B",
-        "text": "1976"
-      },
-      {
-        "key": "C",
-        "text": "1961"
-      },
-      {
-        "key": "D",
-        "text": "1963"
-      }
-    ],
-    "answer": "A",
-    "confidence": "high",
-    "note": "",
-    "practice": true
-  },
-  {
-    "id": 107,
-    "number": 107,
-    "category": "General Knowledge",
-    "text": "Fifty Naira was introduced in?",
-    "choices": [
-      {
-        "key": "A",
-        "text": "27th August, 1991"
-      },
-      {
-        "key": "B",
-        "text": "4th April, 1996"
-      },
-      {
-        "key": "C",
-        "text": "15th June, 1991"
-      },
-      {
-        "key": "D",
-        "text": "6th March, 1996"
-      }
-    ],
-    "answer": "A",
-    "confidence": "low",
-    "note": "The N50 note was introduced in 1991; exact date among options is uncertain.",
-    "practice": true
-  },
-  {
-    "id": 108,
-    "number": 108,
-    "category": "General Knowledge",
-    "text": "The Green colour of the Nigerian flag represents?",
-    "choices": [
-      {
-        "key": "A",
-        "text": "Beauty"
-      },
-      {
-        "key": "B",
-        "text": "Peace"
-      },
-      {
-        "key": "C",
-        "text": "Agriculture"
-      },
-      {
-        "key": "D",
-        "text": "Strength"
-      }
-    ],
-    "answer": "C",
-    "confidence": "high",
-    "note": "",
-    "practice": true
-  },
-  {
     "id": 109,
     "number": 109,
     "category": "General Knowledge",
@@ -3304,34 +3220,6 @@
     "practice": true
   },
   {
-    "id": 119,
-    "number": 119,
-    "category": "General Knowledge",
-    "text": "Who was the First Military Head of State?",
-    "choices": [
-      {
-        "key": "A",
-        "text": "Gen. Murtala Muhammad"
-      },
-      {
-        "key": "B",
-        "text": "Gen. Ibrahim Babangida"
-      },
-      {
-        "key": "C",
-        "text": "Gen. Aguiyi Ironsi"
-      },
-      {
-        "key": "D",
-        "text": "Gen. Idiagbon"
-      }
-    ],
-    "answer": "C",
-    "confidence": "high",
-    "note": "",
-    "practice": true
-  },
-  {
     "id": 120,
     "number": 120,
     "category": "General Knowledge",
@@ -3386,5 +3274,5149 @@
     "confidence": "low",
     "note": "Uncertain; answer is a best guess among the options.",
     "practice": true
+  },
+  {
+    "id": 122,
+    "number": 122,
+    "category": "Criminal Law",
+    "text": "Which is a rule of action, or binding principles made by the government at all level which the people are bound to obey in these?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Edict"
+      },
+      {
+        "key": "B",
+        "text": "Law"
+      },
+      {
+        "key": "C",
+        "text": "Act"
+      },
+      {
+        "key": "D",
+        "text": "Decree"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 123,
+    "number": 123,
+    "category": "Criminal Law",
+    "text": "¬¬¬¬_____ is the law made by the federal legislature house after Nigeria became a republic?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Act"
+      },
+      {
+        "key": "B",
+        "text": "Law"
+      },
+      {
+        "key": "C",
+        "text": "Edict"
+      },
+      {
+        "key": "D",
+        "text": "Decree"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 124,
+    "number": 124,
+    "category": "Criminal Law",
+    "text": "Means a Law made by the federal military government which is applicable through the federation of Nigeria is _________",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Decree"
+      },
+      {
+        "key": "B",
+        "text": "Law"
+      },
+      {
+        "key": "C",
+        "text": "Act"
+      },
+      {
+        "key": "D",
+        "text": "Edict"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 125,
+    "number": 125,
+    "category": "Criminal Law",
+    "text": "_____ is a forbidden act which affects the interest of the community as a whole and for which the level offenders is punished according to the law.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Tort"
+      },
+      {
+        "key": "B",
+        "text": "Crime"
+      },
+      {
+        "key": "C",
+        "text": "Act"
+      },
+      {
+        "key": "D",
+        "text": "Edict"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 126,
+    "number": 126,
+    "category": "Criminal Law",
+    "text": "From the following which one , is not among the three main categories of criminal law.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Felony"
+      },
+      {
+        "key": "B",
+        "text": "Misdemeanor"
+      },
+      {
+        "key": "C",
+        "text": "Simple offence"
+      },
+      {
+        "key": "D",
+        "text": "Crime"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 127,
+    "number": 127,
+    "category": "Criminal Law",
+    "text": "Offence can be defined as ______?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "An act or omission which renders the person during the act or making the omission liable to punishment under the criminal code or under the other ordinance in law in force."
+      },
+      {
+        "key": "B",
+        "text": "As leads criminal action"
+      },
+      {
+        "key": "C",
+        "text": "T implies punishment"
+      },
+      {
+        "key": "D",
+        "text": "Omission of action"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 128,
+    "number": 128,
+    "category": "Criminal Law",
+    "text": "_____ is any offence declared by law which is punishable by imprisonment for not less than six months but less than three years.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Simple offence"
+      },
+      {
+        "key": "B",
+        "text": "Felony"
+      },
+      {
+        "key": "C",
+        "text": "Misdemeanor"
+      },
+      {
+        "key": "D",
+        "text": "Crime"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 129,
+    "number": 129,
+    "category": "Criminal Law",
+    "text": "_____ means any offence other than felony or misdemeanor or is punishable by imprisonment for less than six months.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Tort"
+      },
+      {
+        "key": "B",
+        "text": "Crime"
+      },
+      {
+        "key": "C",
+        "text": "Simple offence"
+      },
+      {
+        "key": "D",
+        "text": "Act"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 130,
+    "number": 130,
+    "category": "Criminal Law",
+    "text": "A marriage recognized by the law of the place where it is contracted as a voluntary union for one man and one woman to the exclusion of all others is what.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Overnight marriage"
+      },
+      {
+        "key": "B",
+        "text": "Young person marriage"
+      },
+      {
+        "key": "C",
+        "text": "Christian marriage"
+      },
+      {
+        "key": "D",
+        "text": "Offensive marriage"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 132,
+    "number": 132,
+    "category": "Criminal Law",
+    "text": "One of the point to prove the offence of assault is _____",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Catch suspect on the road"
+      },
+      {
+        "key": "B",
+        "text": "That it was done with the consent of the person assaulted"
+      },
+      {
+        "key": "C",
+        "text": "Slap the offender"
+      },
+      {
+        "key": "D",
+        "text": "Sorry for your action"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 133,
+    "number": 133,
+    "category": "Criminal Law",
+    "text": "Which of these is not among the type of assaults?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Assult with intent to commit unnatural"
+      },
+      {
+        "key": "B",
+        "text": "Serious assault"
+      },
+      {
+        "key": "C",
+        "text": "Common assault"
+      },
+      {
+        "key": "D",
+        "text": "Assaulted felony"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 134,
+    "number": 134,
+    "category": "Criminal Law",
+    "text": "Criminal responsibility means _______",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Liability to punishment for an offence"
+      },
+      {
+        "key": "B",
+        "text": "Assault with intent to compel action"
+      },
+      {
+        "key": "C",
+        "text": "By accident of misadventure"
+      },
+      {
+        "key": "D",
+        "text": "In defense of property"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 135,
+    "number": 135,
+    "category": "Criminal Law",
+    "text": "____ can be define as unlawful carnal knowledge of a woman or girl without her consent or with her consent if the consent is obtained by force or by means of threats or intimidation of any kind.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Robbery"
+      },
+      {
+        "key": "B",
+        "text": "Fighting"
+      },
+      {
+        "key": "C",
+        "text": "Rape"
+      },
+      {
+        "key": "D",
+        "text": "Rating"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 136,
+    "number": 136,
+    "category": "Criminal Law",
+    "text": "The following are points to prove rape except",
+    "choices": [
+      {
+        "key": "A",
+        "text": "That the carnal knowledge was unlawful"
+      },
+      {
+        "key": "B",
+        "text": "There must be penetrate"
+      },
+      {
+        "key": "C",
+        "text": "The identity of the accused must be established"
+      },
+      {
+        "key": "D",
+        "text": "The woman willingly consent to it."
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 137,
+    "number": 137,
+    "category": "Criminal Law",
+    "text": "What offence will a person be punished for while attempting, but will not be punished or prosecuted after commiting the offence?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Stealing"
+      },
+      {
+        "key": "B",
+        "text": "Suicide"
+      },
+      {
+        "key": "C",
+        "text": "Fighting"
+      },
+      {
+        "key": "D",
+        "text": "Dancing"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 138,
+    "number": 138,
+    "category": "Criminal Law",
+    "text": "Aiding suicide is a felonious offence and it is punishable with?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Life imprisonment"
+      },
+      {
+        "key": "B",
+        "text": "7 years imprisonment"
+      },
+      {
+        "key": "C",
+        "text": "14 years imprisonment"
+      },
+      {
+        "key": "D",
+        "text": "Bail able offence"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 139,
+    "number": 139,
+    "category": "Criminal Law",
+    "text": "Attempting to commit suicide is a misdemeanor offence punishable with",
+    "choices": [
+      {
+        "key": "A",
+        "text": "6 months imprisonment"
+      },
+      {
+        "key": "B",
+        "text": "One months imprisonment"
+      },
+      {
+        "key": "C",
+        "text": "21 months imprisonment"
+      },
+      {
+        "key": "D",
+        "text": "7 months imprisonment"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 140,
+    "number": 140,
+    "category": "Criminal Law",
+    "text": "____ means when a person fraudulently takes capable of been stolen or fraudulently converts to his own use or to the use of any other person anything capable of being stolen is said to be?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Stealing"
+      },
+      {
+        "key": "B",
+        "text": "Robbery"
+      },
+      {
+        "key": "C",
+        "text": "Affray"
+      },
+      {
+        "key": "D",
+        "text": "Assault"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 141,
+    "number": 141,
+    "category": "Criminal Law",
+    "text": "_____ means any representation made by either word, written or conduct of a matter of fact either past or present which representation is false, or which person making it known to be false or does believe it to be true is said to be ?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Burglary"
+      },
+      {
+        "key": "B",
+        "text": "Robbery"
+      },
+      {
+        "key": "C",
+        "text": "House breaking"
+      },
+      {
+        "key": "D",
+        "text": "Stealing"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 142,
+    "number": 142,
+    "category": "Criminal Law",
+    "text": "Who is coroner?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Any person empowered to hold inquest under the coroners Act"
+      },
+      {
+        "key": "B",
+        "text": "A veterinary doctor"
+      },
+      {
+        "key": "C",
+        "text": "Environment doctor"
+      },
+      {
+        "key": "D",
+        "text": "Local government chairman"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 143,
+    "number": 143,
+    "category": "Criminal Law",
+    "text": "The coroner form A can be define as the ______",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Order for prosecution"
+      },
+      {
+        "key": "B",
+        "text": "Order for Exhumation"
+      },
+      {
+        "key": "C",
+        "text": "Order for detention"
+      },
+      {
+        "key": "D",
+        "text": "Order for bail grant"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 144,
+    "number": 144,
+    "category": "Criminal Law",
+    "text": "The coroner form B is called?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Police investigation report"
+      },
+      {
+        "key": "B",
+        "text": "Index to case file"
+      },
+      {
+        "key": "C",
+        "text": "Death report to coroner"
+      },
+      {
+        "key": "D",
+        "text": "Court order"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 145,
+    "number": 145,
+    "category": "Criminal Law",
+    "text": "The coroner form C is called?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Coroners order for post mortem"
+      },
+      {
+        "key": "B",
+        "text": "Warrant of arrest"
+      },
+      {
+        "key": "C",
+        "text": "Death certificate"
+      },
+      {
+        "key": "D",
+        "text": "Vio license report"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 146,
+    "number": 146,
+    "category": "Criminal Law",
+    "text": "The coroners form D is called?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Medical bill"
+      },
+      {
+        "key": "B",
+        "text": "Medical practitioners report"
+      },
+      {
+        "key": "C",
+        "text": "Police investigation report"
+      },
+      {
+        "key": "D",
+        "text": "Name of the medical practitioner"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 147,
+    "number": 147,
+    "category": "Criminal Law",
+    "text": "The coroners form E is for?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Name of medical practitioner"
+      },
+      {
+        "key": "B",
+        "text": "Name and address of the hospital"
+      },
+      {
+        "key": "C",
+        "text": "Coroners inquisition"
+      },
+      {
+        "key": "D",
+        "text": "Name of the judge in the case"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 148,
+    "number": 148,
+    "category": "Criminal Law",
+    "text": "The coroners form F is called?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Form for witness summons"
+      },
+      {
+        "key": "B",
+        "text": "Name of the DPO"
+      },
+      {
+        "key": "C",
+        "text": "Name of the IPO"
+      },
+      {
+        "key": "D",
+        "text": "Medical history of the decease"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 149,
+    "number": 149,
+    "category": "Criminal Law",
+    "text": "Mortuary can be as a place where",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Sick people are being kept"
+      },
+      {
+        "key": "B",
+        "text": "Cold room"
+      },
+      {
+        "key": "C",
+        "text": "A place where dead bodies are collected for doctors post mortem examination"
+      },
+      {
+        "key": "D",
+        "text": "Post office mortem"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 150,
+    "number": 150,
+    "category": "Criminal Law",
+    "text": "Exhumation can be define as",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Burring of death bodies"
+      },
+      {
+        "key": "B",
+        "text": "Digging up of a death body from the grave"
+      },
+      {
+        "key": "C",
+        "text": "Going to check the corpse in the grave"
+      },
+      {
+        "key": "D",
+        "text": "Planting of flower by the grave"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 151,
+    "number": 151,
+    "category": "Criminal Law",
+    "text": "A coroner may order for exhumation under sec. 6 of the coroners Act if",
+    "choices": [
+      {
+        "key": "A",
+        "text": "There is family dispute"
+      },
+      {
+        "key": "B",
+        "text": "When it appears to the coroner that the body of any person who has died in circumstance requiring the holding of an inquest has been buried without such inquest having been held."
+      },
+      {
+        "key": "C",
+        "text": "When it appears that the person died prematurely"
+      },
+      {
+        "key": "D",
+        "text": "It appears the dead will rise again from the grave by itself"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 152,
+    "number": 152,
+    "category": "Criminal Law",
+    "text": "One of the following option is a condition under which coroner may not order for exhumation",
+    "choices": [
+      {
+        "key": "A",
+        "text": "When the case is family case"
+      },
+      {
+        "key": "B",
+        "text": "When a husband killed his wife"
+      },
+      {
+        "key": "C",
+        "text": "When there is no reasonable probability of satisfactory result being obtained thereby."
+      },
+      {
+        "key": "D",
+        "text": "None of the above"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 153,
+    "number": 153,
+    "category": "Criminal Law",
+    "text": "The following options are types of Liquor License except?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Tavern Liquor License"
+      },
+      {
+        "key": "B",
+        "text": "Wine and Beer off License"
+      },
+      {
+        "key": "C",
+        "text": "Wine and Beer on License"
+      },
+      {
+        "key": "D",
+        "text": "Nigeria Breweries License"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 154,
+    "number": 154,
+    "category": "Criminal Law",
+    "text": "Who makes objection to the issue of Liquor License?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "The commissioner of police"
+      },
+      {
+        "key": "B",
+        "text": "Head master of community secondary school"
+      },
+      {
+        "key": "C",
+        "text": "State governor"
+      },
+      {
+        "key": "D",
+        "text": "Any public officer of local government council and any person residing in a district or place where the license is applied by the individual or jointly may object to the granting of liquor license or its renewal."
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 155,
+    "number": 155,
+    "category": "Criminal Law",
+    "text": "This is evidence given by a witness by words of mouth after taken oath before a court",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Oral proceeding"
+      },
+      {
+        "key": "B",
+        "text": "Oral evidence"
+      },
+      {
+        "key": "C",
+        "text": "Oral justification"
+      },
+      {
+        "key": "D",
+        "text": "Oral judiciary"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 157,
+    "number": 157,
+    "category": "Criminal Law",
+    "text": "Person who steals anything and at or immediately before or immediately after the time of stealing it, or threatens to use actual violence to any person or property in order to obtain or retain the thing stolen to prevent or overcome resistance to its being stolen or refund is said to be guilty of?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Burglary"
+      },
+      {
+        "key": "B",
+        "text": "Stealing"
+      },
+      {
+        "key": "C",
+        "text": "Robbery"
+      },
+      {
+        "key": "D",
+        "text": "Fraud"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 158,
+    "number": 158,
+    "category": "Criminal Law",
+    "text": "Anybody who fraudulently takes anything capable of being stolen or converts fraudulently to his own use of other person is said to have commit",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Fraud"
+      },
+      {
+        "key": "B",
+        "text": "Stealing"
+      },
+      {
+        "key": "C",
+        "text": "Robbery"
+      },
+      {
+        "key": "D",
+        "text": "Cheating"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 160,
+    "number": 160,
+    "category": "Criminal Law",
+    "text": "Parties to offence below except?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Principal offenders"
+      },
+      {
+        "key": "B",
+        "text": "Vice principal offenders"
+      },
+      {
+        "key": "C",
+        "text": "Accessories after the fact"
+      },
+      {
+        "key": "D",
+        "text": "Accessories before the fact."
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 161,
+    "number": 161,
+    "category": "Criminal Law",
+    "text": "Condition under which an accused could be discharge by the court without any criminal blame are below except?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Intoxication"
+      },
+      {
+        "key": "B",
+        "text": "Insanity"
+      },
+      {
+        "key": "C",
+        "text": "Christian marriage"
+      },
+      {
+        "key": "D",
+        "text": "Accident"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 162,
+    "number": 162,
+    "category": "Criminal Law",
+    "text": "The unlawful carnal knowledge of a girl under the age 13 years is called",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Rape"
+      },
+      {
+        "key": "B",
+        "text": "Miscarriage"
+      },
+      {
+        "key": "C",
+        "text": "Abduction"
+      },
+      {
+        "key": "D",
+        "text": "Defilement"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 163,
+    "number": 163,
+    "category": "Criminal Law",
+    "text": "Instances which homicide may be excused are as following except?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Killing by accident"
+      },
+      {
+        "key": "B",
+        "text": "Killing in defense of dwelling house"
+      },
+      {
+        "key": "C",
+        "text": "Killing in execution of the lawful sentence of a court"
+      },
+      {
+        "key": "D",
+        "text": "in surgical operation"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 164,
+    "number": 164,
+    "category": "Criminal Law",
+    "text": "the killing of a child less than 12 month by its mother who is suffering from effect of lactation consequent upon the birth of the child is called",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Killing unborn child"
+      },
+      {
+        "key": "B",
+        "text": "Infanticide"
+      },
+      {
+        "key": "C",
+        "text": "Abortion"
+      },
+      {
+        "key": "D",
+        "text": "Suicide"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 165,
+    "number": 165,
+    "category": "Criminal Law",
+    "text": "What do you understand by Suicide?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "The killing of oneself"
+      },
+      {
+        "key": "B",
+        "text": "The killing of human being by another"
+      },
+      {
+        "key": "C",
+        "text": "Killing in execution of law"
+      },
+      {
+        "key": "D",
+        "text": "Killing by accident"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 166,
+    "number": 166,
+    "category": "Criminal Law",
+    "text": "Any person by means of any fraudulent trick or device obtains from any other person anything capable of being stolen is called?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "False pretence"
+      },
+      {
+        "key": "B",
+        "text": "Cheating"
+      },
+      {
+        "key": "C",
+        "text": "Fraud"
+      },
+      {
+        "key": "D",
+        "text": "Stealing"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 167,
+    "number": 167,
+    "category": "Criminal Law",
+    "text": "Offence committed in the night and punishable by life imprisonment called",
+    "choices": [
+      {
+        "key": "A",
+        "text": "House breaking"
+      },
+      {
+        "key": "B",
+        "text": "Stealing"
+      },
+      {
+        "key": "C",
+        "text": "Robbery"
+      },
+      {
+        "key": "D",
+        "text": "Burglary"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 168,
+    "number": 168,
+    "category": "Criminal Law",
+    "text": "The administration of unlawful, posion or other noxious thing or use of force of any kind on a women in order to procure miscarried on her is called",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Abortion"
+      },
+      {
+        "key": "B",
+        "text": "Infanticide"
+      },
+      {
+        "key": "C",
+        "text": "Homicide"
+      },
+      {
+        "key": "D",
+        "text": "Suicide"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 169,
+    "number": 169,
+    "category": "Criminal Law",
+    "text": "An unlawful assembly which begun to act in so tumultuous manner as to disturb the peace of people is called",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Riot"
+      },
+      {
+        "key": "B",
+        "text": "Conduct likely to cause breach of peace"
+      },
+      {
+        "key": "C",
+        "text": "Fighting"
+      },
+      {
+        "key": "D",
+        "text": "Unlawful assembly"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 170,
+    "number": 170,
+    "category": "Criminal Law",
+    "text": "How many person(s) can be assemble together to constitute unlawful assembly.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Three or more"
+      },
+      {
+        "key": "B",
+        "text": "Twelve or more"
+      },
+      {
+        "key": "C",
+        "text": "Ten"
+      },
+      {
+        "key": "D",
+        "text": "Thirty"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 171,
+    "number": 171,
+    "category": "Criminal Law",
+    "text": "Below are the points to rove perjury except?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "The identity of the accused must be established"
+      },
+      {
+        "key": "B",
+        "text": "That he knew the statement to be false"
+      },
+      {
+        "key": "C",
+        "text": "That the person knowingly made a false statement material to that processing"
+      },
+      {
+        "key": "D",
+        "text": "That the person is lawful sworn on oath in a judiciary proceeding"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 172,
+    "number": 172,
+    "category": "Criminal Law",
+    "text": "Any person in any judicial proceeding, knowingly gives false testimony on oath, touching any matter which is material to any question then pending on that proceeding is called?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Rioters"
+      },
+      {
+        "key": "B",
+        "text": "Perjury"
+      },
+      {
+        "key": "C",
+        "text": "Accused"
+      },
+      {
+        "key": "D",
+        "text": "Witness"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 173,
+    "number": 173,
+    "category": "Criminal Law",
+    "text": "______ means any premises or is of rooms in a premises kept for the purpose of prostitution",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Hostel"
+      },
+      {
+        "key": "B",
+        "text": "Brothel"
+      },
+      {
+        "key": "C",
+        "text": "Short time rest"
+      },
+      {
+        "key": "D",
+        "text": "Restaurant"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 174,
+    "number": 174,
+    "category": "Criminal Law",
+    "text": "Any carnal connection that takes place between a man and a woman who is not husband and wife and not permitted by the law is called?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Rape"
+      },
+      {
+        "key": "B",
+        "text": "Defilement"
+      },
+      {
+        "key": "C",
+        "text": "Unlawful carnal knowledge"
+      },
+      {
+        "key": "D",
+        "text": "Lawful carnal knowledge"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 175,
+    "number": 175,
+    "category": "Criminal Law",
+    "text": "The taking and restraining of a liberty in order that he shall be answerable to an alleged or suspected crime or offence.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Detection"
+      },
+      {
+        "key": "B",
+        "text": "Arrest"
+      },
+      {
+        "key": "C",
+        "text": "Prosecution"
+      },
+      {
+        "key": "D",
+        "text": "Conviction"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 176,
+    "number": 176,
+    "category": "Criminal Law",
+    "text": "A police officer can refuse to arrest a suspect under the following condition except?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "If the allegation is not very trivial"
+      },
+      {
+        "key": "B",
+        "text": "If the allegation is apparently false"
+      },
+      {
+        "key": "C",
+        "text": "If the suspect has already been tried by a competent law"
+      },
+      {
+        "key": "D",
+        "text": "If the officer has already been investigated on the same allegation"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 177,
+    "number": 177,
+    "category": "Criminal Law",
+    "text": "A written Authority signed by judge or magistrate , inform person or persons to whom it is addressed to perform an act specified therein is called?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Warrant"
+      },
+      {
+        "key": "B",
+        "text": "Summon"
+      },
+      {
+        "key": "C",
+        "text": "Affidavits"
+      },
+      {
+        "key": "D",
+        "text": "Identity card"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 178,
+    "number": 178,
+    "category": "Criminal Law",
+    "text": "The below are kinds of warrant except",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Warrant of arrest"
+      },
+      {
+        "key": "B",
+        "text": "Warrant of detention"
+      },
+      {
+        "key": "C",
+        "text": "Bench warrant"
+      },
+      {
+        "key": "D",
+        "text": "Remand warrant"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 179,
+    "number": 179,
+    "category": "Criminal Law",
+    "text": "When an act or omission of any person arrested by police officer or private person does not constitutes offence is called",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Arrest"
+      },
+      {
+        "key": "B",
+        "text": "Unlawful arrest"
+      },
+      {
+        "key": "C",
+        "text": "Unlawful detention"
+      },
+      {
+        "key": "D",
+        "text": "Power of arrest"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 180,
+    "number": 180,
+    "category": "Criminal Law",
+    "text": "Below are theconsequence of effecting unlawful arrest except.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "It may attract civil litigation"
+      },
+      {
+        "key": "B",
+        "text": "It does not lead to department"
+      },
+      {
+        "key": "C",
+        "text": "It may cause financial loss to the NPF"
+      },
+      {
+        "key": "D",
+        "text": "It may bring bad images to the force"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 181,
+    "number": 181,
+    "category": "Criminal Law",
+    "text": "The following are police powers as stated in police Act except?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Power to conduct prosecution"
+      },
+      {
+        "key": "B",
+        "text": "Power to sentence accused to jail"
+      },
+      {
+        "key": "C",
+        "text": "Power to arrest without warrant"
+      },
+      {
+        "key": "D",
+        "text": "Power to search"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 182,
+    "number": 182,
+    "category": "Criminal Law",
+    "text": "The allegation that any named person had committed an offence made before a magistrate for purpose of moving him to issue process under the criminal code sec. 2 is called",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Accused"
+      },
+      {
+        "key": "B",
+        "text": "Suspect"
+      },
+      {
+        "key": "C",
+        "text": "Witness"
+      },
+      {
+        "key": "D",
+        "text": "Complaint"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 183,
+    "number": 183,
+    "category": "Criminal Law",
+    "text": "____ is the statement offence or offences with which an accused is charged in a summary trial before a court?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Report"
+      },
+      {
+        "key": "B",
+        "text": "Charge"
+      },
+      {
+        "key": "C",
+        "text": "Evidence"
+      },
+      {
+        "key": "D",
+        "text": "Summon"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 184,
+    "number": 184,
+    "category": "Criminal Law",
+    "text": "Any offence which on conviction may be punished with 2 years imprisonment , a fine exceeding 400 or not declared by the written law creating offence to be punishable in summary conviction is called",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Non indictable offence"
+      },
+      {
+        "key": "B",
+        "text": "Indictable offence"
+      },
+      {
+        "key": "C",
+        "text": "Misdemeanor offence"
+      },
+      {
+        "key": "D",
+        "text": "Simple offence"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 185,
+    "number": 185,
+    "category": "Criminal Law",
+    "text": "Condition when a police officer can arrest without informing the suspect /accused reasons for his/her arrested are as follows except?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "When caught in actual course of the commission of a crime."
+      },
+      {
+        "key": "B",
+        "text": "When visit the scence of the crime"
+      },
+      {
+        "key": "C",
+        "text": "When pursure immediately after the commission of crime"
+      },
+      {
+        "key": "D",
+        "text": "When escape from lawful custody"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 186,
+    "number": 186,
+    "category": "Criminal Law",
+    "text": "Below are reasons why an arrested person should be search before and after detention except?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "To recover stolen articles"
+      },
+      {
+        "key": "B",
+        "text": "To recover any tools connected with kind of offence which he is alleged to have committed."
+      },
+      {
+        "key": "C",
+        "text": "To avoid destroying articles which may funish evidence against accused person"
+      },
+      {
+        "key": "D",
+        "text": "In order to allow him keep instrument of violenc"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 187,
+    "number": 187,
+    "category": "Criminal Law",
+    "text": "These are the types of evidence that are admissible in court except?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Oral evidence"
+      },
+      {
+        "key": "B",
+        "text": "Documentary evidence"
+      },
+      {
+        "key": "C",
+        "text": "Hearsay evidence"
+      },
+      {
+        "key": "D",
+        "text": "Real evidence"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 188,
+    "number": 188,
+    "category": "Criminal Law",
+    "text": "Which among the following options is not a content of charge sheet?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Name of accursed"
+      },
+      {
+        "key": "B",
+        "text": "Statement of the offence"
+      },
+      {
+        "key": "C",
+        "text": "Dictionary of police order"
+      },
+      {
+        "key": "D",
+        "text": "Date of alleged crime"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 189,
+    "number": 189,
+    "category": "Criminal Law",
+    "text": "___ is a recognizance or legal written agreement or promise entered into by a surety before a court of law or the police to produce a suspect / accused under the stipulated condition.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Agreement"
+      },
+      {
+        "key": "B",
+        "text": "Guarantor form"
+      },
+      {
+        "key": "C",
+        "text": "Bail Bond"
+      },
+      {
+        "key": "D",
+        "text": "Promise note"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 190,
+    "number": 190,
+    "category": "Criminal Law",
+    "text": "Police officer can refuse a case under the following ways except?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "When the complaint is civil"
+      },
+      {
+        "key": "B",
+        "text": "When the complaint is trivial"
+      },
+      {
+        "key": "C",
+        "text": "When the complaint is true"
+      },
+      {
+        "key": "D",
+        "text": "When the complaint is malicious"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 191,
+    "number": 191,
+    "category": "Criminal Law",
+    "text": "A private person can make arrest under sec. 28 cpc except?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Any person who escape from lawful custody"
+      },
+      {
+        "key": "B",
+        "text": "Any person required to appear by a public summons"
+      },
+      {
+        "key": "C",
+        "text": "Any person committing in his presence to arrest without warrant"
+      },
+      {
+        "key": "D",
+        "text": "Two fighting outside his house"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 192,
+    "number": 192,
+    "category": "Criminal Law",
+    "text": "A prosecutor shall be a right to reply in criminal cases trial except?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "A complainant is called by the defense"
+      },
+      {
+        "key": "B",
+        "text": "When a document has been put is defense"
+      },
+      {
+        "key": "C",
+        "text": "The person appearing for the defense has in his address introduced new matters without supporting it with evidence."
+      },
+      {
+        "key": "D",
+        "text": "A witness is called by the defense"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 193,
+    "number": 193,
+    "category": "Criminal Law",
+    "text": "Below are charge sheet except?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Name of the accused"
+      },
+      {
+        "key": "B",
+        "text": "Date of the alleged commission of the offence"
+      },
+      {
+        "key": "C",
+        "text": "Statement of offences"
+      },
+      {
+        "key": "D",
+        "text": "Warrant of arrest"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 194,
+    "number": 194,
+    "category": "Criminal Law",
+    "text": "One of the pleas open to an accused in court that he has been previously tried in the same case and was acquitted is called",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Autrefois convict"
+      },
+      {
+        "key": "B",
+        "text": "Consective sentence"
+      },
+      {
+        "key": "C",
+        "text": "Autrefois acquit"
+      },
+      {
+        "key": "D",
+        "text": "Abetment"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 195,
+    "number": 195,
+    "category": "Criminal Law",
+    "text": "Nolleprosequi is one of the powers of the _____",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Attorney general"
+      },
+      {
+        "key": "B",
+        "text": "Auditor general"
+      },
+      {
+        "key": "C",
+        "text": "Accountant general"
+      },
+      {
+        "key": "D",
+        "text": "Lieutenant general"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 196,
+    "number": 196,
+    "category": "Criminal Law",
+    "text": "An abettor is a person who does the following except?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Instigates any person to do the act"
+      },
+      {
+        "key": "B",
+        "text": "Engages with one or more persons in a conspiracy for doing the act"
+      },
+      {
+        "key": "C",
+        "text": "Preventing the commission of the act"
+      },
+      {
+        "key": "D",
+        "text": "Intentionally aids or facilitates the act by an act or illegal omission"
+      }
+    ],
+    "answer": "C",
+    "confidence": "low",
+    "note": "Reconstructed from OCR-corrupted source PDF; verify wording/answer.",
+    "practice": false
+  },
+  {
+    "id": 197,
+    "number": 197,
+    "category": "Criminal Law",
+    "text": "A law which states that a person who has been arrested should not be kept in detention longer than a particular period unless a judge in a court of law has decided it is right is called?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Nolle prosequi"
+      },
+      {
+        "key": "B",
+        "text": "Habeas corpus"
+      },
+      {
+        "key": "C",
+        "text": "Abetment"
+      },
+      {
+        "key": "D",
+        "text": "Autrefois acquit"
+      }
+    ],
+    "answer": "B",
+    "confidence": "low",
+    "note": "Reconstructed from OCR-corrupted source PDF; verify wording/answer.",
+    "practice": false
+  },
+  {
+    "id": 198,
+    "number": 198,
+    "category": "Criminal Law",
+    "text": "The defence available to an accused charged with conversion is one of the following?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Immature age"
+      },
+      {
+        "key": "B",
+        "text": "Bonafide claim of right"
+      },
+      {
+        "key": "C",
+        "text": "Intoxication"
+      },
+      {
+        "key": "D",
+        "text": "Insanity"
+      }
+    ],
+    "answer": "B",
+    "confidence": "low",
+    "note": "Reconstructed from OCR-corrupted source PDF; verify wording/answer.",
+    "practice": false
+  },
+  {
+    "id": 199,
+    "number": 199,
+    "category": "Criminal Law",
+    "text": "_____ is the punishment given by a court of law.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Sentence"
+      },
+      {
+        "key": "B",
+        "text": "Withdrawal"
+      },
+      {
+        "key": "C",
+        "text": "Bail"
+      },
+      {
+        "key": "D",
+        "text": "Surety"
+      }
+    ],
+    "answer": "A",
+    "confidence": "low",
+    "note": "Reconstructed from OCR-corrupted source PDF; verify wording/answer.",
+    "practice": false
+  },
+  {
+    "id": 200,
+    "number": 200,
+    "category": "Criminal Law",
+    "text": "The following are reasons why a warrant of arrest may not be shown to a suspect or accused before arrest except?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "When the suspect is rescued from danger"
+      },
+      {
+        "key": "B",
+        "text": "When the suspect is eating"
+      },
+      {
+        "key": "C",
+        "text": "When the suspect resists arrest"
+      },
+      {
+        "key": "D",
+        "text": "When the suspect escapes from lawful custody"
+      }
+    ],
+    "answer": "B",
+    "confidence": "low",
+    "note": "Reconstructed from OCR-corrupted source PDF; verify wording/answer.",
+    "practice": false
+  },
+  {
+    "id": 201,
+    "number": 201,
+    "category": "Criminal Law",
+    "text": "_____ is an imperfect charge that lacks one or more of the ingredients expected in a charge as stated in sec. 151 CPA.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Charge sheet"
+      },
+      {
+        "key": "B",
+        "text": "Defective charge"
+      },
+      {
+        "key": "C",
+        "text": "An imperfect charge"
+      },
+      {
+        "key": "D",
+        "text": "Copy of report"
+      }
+    ],
+    "answer": "B",
+    "confidence": "low",
+    "note": "Reconstructed from OCR-corrupted source PDF; verify wording/answer.",
+    "practice": false
+  },
+  {
+    "id": 202,
+    "number": 202,
+    "category": "Criminal Law",
+    "text": "The following are reasons an accused person should be searched before detention except?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "To prevent escape"
+      },
+      {
+        "key": "B",
+        "text": "To provide safe custody for his properties"
+      },
+      {
+        "key": "C",
+        "text": "To find evidence for an additional charge"
+      },
+      {
+        "key": "D",
+        "text": "None of the above"
+      }
+    ],
+    "answer": "B",
+    "confidence": "low",
+    "note": "Reconstructed from OCR-corrupted source PDF; verify wording/answer.",
+    "practice": false
+  },
+  {
+    "id": 203,
+    "number": 203,
+    "category": "Criminal Law",
+    "text": "The following are steps to take when executing a search on a man/woman except?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "The search must be systematic"
+      },
+      {
+        "key": "B",
+        "text": "It must be thorough"
+      },
+      {
+        "key": "C",
+        "text": "A female must be searched by a female officer"
+      },
+      {
+        "key": "D",
+        "text": "Tie and shoe laces must be given to the accused"
+      }
+    ],
+    "answer": "D",
+    "confidence": "low",
+    "note": "Reconstructed from OCR-corrupted source PDF; verify wording/answer.",
+    "practice": false
+  },
+  {
+    "id": 204,
+    "number": 204,
+    "category": "Criminal Law",
+    "text": "These are methods by which criminal proceedings can be instituted in the high court except?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "By laying a complaint before a magistrate or high court"
+      },
+      {
+        "key": "B",
+        "text": "By filing information before a high court judge"
+      },
+      {
+        "key": "C",
+        "text": "By arresting the person by a police officer"
+      },
+      {
+        "key": "D",
+        "text": "By a first information report received at a court"
+      }
+    ],
+    "answer": "C",
+    "confidence": "low",
+    "note": "Reconstructed from OCR-corrupted source PDF; verify wording/answer.",
+    "practice": false
+  },
+  {
+    "id": 205,
+    "number": 205,
+    "category": "Criminal Law",
+    "text": "Duties of the Attorney General include the following except?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Arraign a suspect before a magistrate court"
+      },
+      {
+        "key": "B",
+        "text": "To institute and take criminal proceedings against any person before any court of law in Nigeria"
+      },
+      {
+        "key": "C",
+        "text": "To take over and continue any such criminal proceeding instituted by any other authority or person"
+      },
+      {
+        "key": "D",
+        "text": "To discontinue at any stage before judgment any such criminal proceeding instituted"
+      }
+    ],
+    "answer": "A",
+    "confidence": "low",
+    "note": "Reconstructed from OCR-corrupted source PDF; verify wording/answer.",
+    "practice": false
+  },
+  {
+    "id": 206,
+    "number": 206,
+    "category": "Criminal Law",
+    "text": "How do you address a magistrate in court?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "My lord"
+      },
+      {
+        "key": "B",
+        "text": "Your worship"
+      },
+      {
+        "key": "C",
+        "text": "Your excellency"
+      },
+      {
+        "key": "D",
+        "text": "Your highness"
+      }
+    ],
+    "answer": "B",
+    "confidence": "low",
+    "note": "Reconstructed from OCR-corrupted source PDF; verify wording/answer.",
+    "practice": false
+  },
+  {
+    "id": 207,
+    "number": 207,
+    "category": "Criminal Law",
+    "text": "_____ is a statement made by an accused person that he/she was somewhere else at the time the offence was alleged to have been committed.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Charge sheet"
+      },
+      {
+        "key": "B",
+        "text": "Allocutus"
+      },
+      {
+        "key": "C",
+        "text": "Alibi"
+      },
+      {
+        "key": "D",
+        "text": "Bail bond"
+      }
+    ],
+    "answer": "C",
+    "confidence": "low",
+    "note": "Reconstructed from OCR-corrupted source PDF; verify wording/answer.",
+    "practice": false
+  },
+  {
+    "id": 208,
+    "number": 208,
+    "category": "Criminal Law",
+    "text": "An opportunity or privilege given to the accused to say something before sentence is passed by a judge/magistrate is called?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Defence"
+      },
+      {
+        "key": "B",
+        "text": "Pardon"
+      },
+      {
+        "key": "C",
+        "text": "Allocutus"
+      },
+      {
+        "key": "D",
+        "text": "Habeas corpus"
+      }
+    ],
+    "answer": "C",
+    "confidence": "low",
+    "note": "Reconstructed from OCR-corrupted source PDF; verify wording/answer.",
+    "practice": false
+  },
+  {
+    "id": 209,
+    "number": 209,
+    "category": "Criminal Law",
+    "text": "The following people may institute criminal proceedings in any law court except?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "The police"
+      },
+      {
+        "key": "B",
+        "text": "The Attorney General"
+      },
+      {
+        "key": "C",
+        "text": "A military officer"
+      },
+      {
+        "key": "D",
+        "text": "A private prosecutor"
+      }
+    ],
+    "answer": "C",
+    "confidence": "low",
+    "note": "Reconstructed from OCR-corrupted source PDF; verify wording/answer.",
+    "practice": false
+  },
+  {
+    "id": 210,
+    "number": 210,
+    "category": "Criminal Law",
+    "text": "The following are types of plea except?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Plea of not guilty"
+      },
+      {
+        "key": "B",
+        "text": "Plea (mute of malice)"
+      },
+      {
+        "key": "C",
+        "text": "Plea of pardon"
+      },
+      {
+        "key": "D",
+        "text": "Plea of alibi"
+      }
+    ],
+    "answer": "D",
+    "confidence": "low",
+    "note": "Reconstructed from OCR-corrupted source PDF; verify wording/answer.",
+    "practice": false
+  },
+  {
+    "id": 211,
+    "number": 211,
+    "category": "Police Duties",
+    "text": "____ is a written order signed by a judge or magistrate or justice of a peace",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Bail"
+      },
+      {
+        "key": "B",
+        "text": "Summon"
+      },
+      {
+        "key": "C",
+        "text": "Crime"
+      },
+      {
+        "key": "D",
+        "text": "Offence"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 212,
+    "number": 212,
+    "category": "Police Duties",
+    "text": "____ is an area or portion of land allocated to a police officer to patrol or take care of during his tour of duty",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Partnership"
+      },
+      {
+        "key": "B",
+        "text": "Sole trader"
+      },
+      {
+        "key": "C",
+        "text": "Beat"
+      },
+      {
+        "key": "D",
+        "text": "Compound"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 213,
+    "number": 213,
+    "category": "Police Duties",
+    "text": "Which of these is type of beat system",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Fixed route system"
+      },
+      {
+        "key": "B",
+        "text": "Abortion beat"
+      },
+      {
+        "key": "C",
+        "text": "Sound system beat"
+      },
+      {
+        "key": "D",
+        "text": "Music beat system"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 214,
+    "number": 214,
+    "category": "Police Duties",
+    "text": "A book issued to every police officer to enable him make entire in connection with this duty is known as",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Trouser note book"
+      },
+      {
+        "key": "B",
+        "text": "Computer note book"
+      },
+      {
+        "key": "C",
+        "text": "Pocket note book"
+      },
+      {
+        "key": "D",
+        "text": "Diary"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 215,
+    "number": 215,
+    "category": "Police Duties",
+    "text": "One of these is type of police report.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Police company report"
+      },
+      {
+        "key": "B",
+        "text": "Oil and Gas report"
+      },
+      {
+        "key": "C",
+        "text": "Crime report"
+      },
+      {
+        "key": "D",
+        "text": "Account report"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 216,
+    "number": 216,
+    "category": "Police Duties",
+    "text": "____ contains all facts and evidence about a complaint of report made to the police of a crime.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Crime file"
+      },
+      {
+        "key": "B",
+        "text": "Offence file"
+      },
+      {
+        "key": "C",
+        "text": "Complain file"
+      },
+      {
+        "key": "D",
+        "text": "Case file"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 217,
+    "number": 217,
+    "category": "Police Duties",
+    "text": "_____ is one of the criminal records",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Charge registers"
+      },
+      {
+        "key": "B",
+        "text": "Duty roster"
+      },
+      {
+        "key": "C",
+        "text": "Diary keeping"
+      },
+      {
+        "key": "D",
+        "text": "Minute book"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 218,
+    "number": 218,
+    "category": "Police Duties",
+    "text": "_____ is one of the record kept at the police station",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Criminal records"
+      },
+      {
+        "key": "B",
+        "text": "Offence book"
+      },
+      {
+        "key": "C",
+        "text": "Case file"
+      },
+      {
+        "key": "D",
+        "text": "Minute sheets"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 219,
+    "number": 219,
+    "category": "Police Duties",
+    "text": "What is the name of C.A.T",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Court awaiting trial"
+      },
+      {
+        "key": "B",
+        "text": "Court attendance trial"
+      },
+      {
+        "key": "C",
+        "text": "Case awaiting trial"
+      },
+      {
+        "key": "D",
+        "text": "Case attending trial"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 220,
+    "number": 220,
+    "category": "Police Duties",
+    "text": "What is the full meaning of R.R.A",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Routing road accuse"
+      },
+      {
+        "key": "B",
+        "text": "Road round accident"
+      },
+      {
+        "key": "C",
+        "text": "Register of road accident"
+      },
+      {
+        "key": "D",
+        "text": "Rail road act."
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 221,
+    "number": 221,
+    "category": "Police Duties",
+    "text": "Police officer may used firearm under which of these force order",
+    "choices": [
+      {
+        "key": "A",
+        "text": "F.O 237"
+      },
+      {
+        "key": "B",
+        "text": "F.O 327"
+      },
+      {
+        "key": "C",
+        "text": "F.O 723"
+      },
+      {
+        "key": "D",
+        "text": "F.O 273"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 222,
+    "number": 222,
+    "category": "Police Duties",
+    "text": "_____ is the placing of suspect among other people of similar age , height, clothing is knowing as",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Passing out parade"
+      },
+      {
+        "key": "B",
+        "text": "Race parade"
+      },
+      {
+        "key": "C",
+        "text": "Ceremonial parade"
+      },
+      {
+        "key": "D",
+        "text": "Identification parade"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 223,
+    "number": 223,
+    "category": "Police Duties",
+    "text": "Form used for identification parade are",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Form D48, D49 ,D50"
+      },
+      {
+        "key": "B",
+        "text": "Form D40, D45, D46"
+      },
+      {
+        "key": "C",
+        "text": "Form D20 ,D25, D30"
+      },
+      {
+        "key": "D",
+        "text": "Form D35, D38, D40"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 224,
+    "number": 224,
+    "category": "Police Duties",
+    "text": "____ is the secretive , continuous and periodic watching of person vehicle to obtain information.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Finger print"
+      },
+      {
+        "key": "B",
+        "text": "Surveillance"
+      },
+      {
+        "key": "C",
+        "text": "Aberdeen"
+      },
+      {
+        "key": "D",
+        "text": "Station guard"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 225,
+    "number": 225,
+    "category": "Police Duties",
+    "text": "____is one the type of identification parade",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Dancing"
+      },
+      {
+        "key": "B",
+        "text": "Eating"
+      },
+      {
+        "key": "C",
+        "text": "Voice"
+      },
+      {
+        "key": "D",
+        "text": "Singing"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 226,
+    "number": 226,
+    "category": "Police Duties",
+    "text": "_____ is the marks left by finger which touched an object",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Thumb nail"
+      },
+      {
+        "key": "B",
+        "text": "Finger line"
+      },
+      {
+        "key": "C",
+        "text": "Finger print"
+      },
+      {
+        "key": "D",
+        "text": "Hunger print"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 227,
+    "number": 227,
+    "category": "Police Duties",
+    "text": "_____ is the recognizance or bound taken by a duly authorized person",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Beat"
+      },
+      {
+        "key": "B",
+        "text": "Arrest"
+      },
+      {
+        "key": "C",
+        "text": "Bail"
+      },
+      {
+        "key": "D",
+        "text": "Crime"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 228,
+    "number": 228,
+    "category": "Police Duties",
+    "text": "_____ is the amount of money to be escorted",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Account"
+      },
+      {
+        "key": "B",
+        "text": "Remittance"
+      },
+      {
+        "key": "C",
+        "text": "Auditing"
+      },
+      {
+        "key": "D",
+        "text": "Ledger"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 229,
+    "number": 229,
+    "category": "Police Duties",
+    "text": "_____ are the officers of the bank send to cash and to take care of the money",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Bank manger"
+      },
+      {
+        "key": "B",
+        "text": "Escort rep"
+      },
+      {
+        "key": "C",
+        "text": "Cashier"
+      },
+      {
+        "key": "D",
+        "text": "Gateman"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 230,
+    "number": 230,
+    "category": "Police Duties",
+    "text": "_____ is a substance that has to do with commission of an offence",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Water"
+      },
+      {
+        "key": "B",
+        "text": "Ink"
+      },
+      {
+        "key": "C",
+        "text": "Exhibit"
+      },
+      {
+        "key": "D",
+        "text": "Evidence"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 231,
+    "number": 231,
+    "category": "Police Duties",
+    "text": "____ is a signed given by a bugle at the beginning of a military flag-lowering ceremony",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Dill"
+      },
+      {
+        "key": "B",
+        "text": "Retreat"
+      },
+      {
+        "key": "C",
+        "text": "Sword"
+      },
+      {
+        "key": "D",
+        "text": "Attention"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 232,
+    "number": 232,
+    "category": "Police Duties",
+    "text": "___ is parade mounted by the detachment of military or police in honour of any person",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Guard of honour"
+      },
+      {
+        "key": "B",
+        "text": "Passing out parade"
+      },
+      {
+        "key": "C",
+        "text": "Reveille"
+      },
+      {
+        "key": "D",
+        "text": "Military parade"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 233,
+    "number": 233,
+    "category": "Police Duties",
+    "text": "____ mean a marching and maneuvering of troops/police for display on official inspection",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Driving"
+      },
+      {
+        "key": "B",
+        "text": "Weapon"
+      },
+      {
+        "key": "C",
+        "text": "Parade"
+      },
+      {
+        "key": "D",
+        "text": "Sword"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 234,
+    "number": 234,
+    "category": "Police Duties",
+    "text": "____ a formal movement of police officer to development alertness and built discipline in them which is the bedrock is known as",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Sword"
+      },
+      {
+        "key": "B",
+        "text": "Drill"
+      },
+      {
+        "key": "C",
+        "text": "Swagger"
+      },
+      {
+        "key": "D",
+        "text": "Cane"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 235,
+    "number": 235,
+    "category": "Police Duties",
+    "text": "The schedule of duties of the force armament officer is known as",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Force order 340"
+      },
+      {
+        "key": "B",
+        "text": "Force order 341"
+      },
+      {
+        "key": "C",
+        "text": "Force order 350"
+      },
+      {
+        "key": "D",
+        "text": "Force order 351"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 236,
+    "number": 236,
+    "category": "Police Duties",
+    "text": "____ is a daily local publication in each police formation showing details of crime committed in the area",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Diary bulletin"
+      },
+      {
+        "key": "B",
+        "text": "Crime Diary bulletin"
+      },
+      {
+        "key": "C",
+        "text": "Visiting Diary bulletin"
+      },
+      {
+        "key": "D",
+        "text": "Surveillance Diary bulletin"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 237,
+    "number": 237,
+    "category": "Police Duties",
+    "text": "This is published bi-monthly and contains special messages from the IGP to SPO s to inspectors",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Force paper"
+      },
+      {
+        "key": "B",
+        "text": "Force newsletter"
+      },
+      {
+        "key": "C",
+        "text": "Daily newspaper"
+      },
+      {
+        "key": "D",
+        "text": "Daily order"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 238,
+    "number": 238,
+    "category": "Police Duties",
+    "text": "_____ is defined as a written guide designed by police for deployment of both the human and material resources towards the successful execution of a particular operation",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Execution order"
+      },
+      {
+        "key": "B",
+        "text": "Operation directives"
+      },
+      {
+        "key": "C",
+        "text": "Force order"
+      },
+      {
+        "key": "D",
+        "text": "Operation order"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 239,
+    "number": 239,
+    "category": "Police Duties",
+    "text": "Under which force order can we find election duty etc?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Force Order 314"
+      },
+      {
+        "key": "B",
+        "text": "Force Order 334"
+      },
+      {
+        "key": "C",
+        "text": "Force Order 433"
+      },
+      {
+        "key": "D",
+        "text": "Force Order 423"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 240,
+    "number": 240,
+    "category": "Police Duties",
+    "text": "The Nigeria police flag will be flown between which hours?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "0600hrs 24000hrs"
+      },
+      {
+        "key": "B",
+        "text": "1800hrs 0630hrs"
+      },
+      {
+        "key": "C",
+        "text": "0600hrs 1400hrs"
+      },
+      {
+        "key": "D",
+        "text": "0600hrs 1800hrs"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 241,
+    "number": 241,
+    "category": "Police Duties",
+    "text": "____ is a person who commits a disciplinary offence and is being tried in an orderly room.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Murderer"
+      },
+      {
+        "key": "B",
+        "text": "Hunter"
+      },
+      {
+        "key": "C",
+        "text": "Defaulter"
+      },
+      {
+        "key": "D",
+        "text": "Label"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 242,
+    "number": 242,
+    "category": "Police Duties",
+    "text": "One of these can be source of exhibits",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Room"
+      },
+      {
+        "key": "B",
+        "text": "Exhibit"
+      },
+      {
+        "key": "C",
+        "text": "Witness"
+      },
+      {
+        "key": "D",
+        "text": "Label"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 243,
+    "number": 243,
+    "category": "Police Duties",
+    "text": "Nigeria flag are made up of how many colours",
+    "choices": [
+      {
+        "key": "A",
+        "text": "2"
+      },
+      {
+        "key": "B",
+        "text": "3"
+      },
+      {
+        "key": "C",
+        "text": "4"
+      },
+      {
+        "key": "D",
+        "text": "1"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 244,
+    "number": 244,
+    "category": "Police Duties",
+    "text": "____ requiring a person to appear before a court defend himself against accusation made against him",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Summon"
+      },
+      {
+        "key": "B",
+        "text": "Defendants summon"
+      },
+      {
+        "key": "C",
+        "text": "Witness"
+      },
+      {
+        "key": "D",
+        "text": "Criminal"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 245,
+    "number": 245,
+    "category": "Police Duties",
+    "text": "The Nigeria police flag will be flown in these places daily except one:",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Police Force Headquarters"
+      },
+      {
+        "key": "B",
+        "text": "Police command headquarters"
+      },
+      {
+        "key": "C",
+        "text": "Government Hospitals"
+      },
+      {
+        "key": "D",
+        "text": "Police divisional Headquarters"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 246,
+    "number": 246,
+    "category": "Police Duties",
+    "text": "This is one of the rights of prisoners detained in the cell",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Demand for his freedom"
+      },
+      {
+        "key": "B",
+        "text": "Medical attention"
+      },
+      {
+        "key": "C",
+        "text": "Canal knowledge in detention"
+      },
+      {
+        "key": "D",
+        "text": "All of the above"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 247,
+    "number": 247,
+    "category": "Police Duties",
+    "text": "The apparatus for finger prints is called",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Money"
+      },
+      {
+        "key": "B",
+        "text": "Colour"
+      },
+      {
+        "key": "C",
+        "text": "Roller"
+      },
+      {
+        "key": "D",
+        "text": "Object"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 248,
+    "number": 248,
+    "category": "Police Duties",
+    "text": "The parade which consist of 8 or more person is called",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Composition"
+      },
+      {
+        "key": "B",
+        "text": "Privilege"
+      },
+      {
+        "key": "C",
+        "text": "Light"
+      },
+      {
+        "key": "D",
+        "text": "Humour"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 249,
+    "number": 249,
+    "category": "Police Duties",
+    "text": "This is one of the condition under which a police officer can leave his beat without being properly relieved",
+    "choices": [
+      {
+        "key": "A",
+        "text": "When over excited"
+      },
+      {
+        "key": "B",
+        "text": "When attending a wedding ceremony"
+      },
+      {
+        "key": "C",
+        "text": "When is feeling asleep"
+      },
+      {
+        "key": "D",
+        "text": "When really sick"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 250,
+    "number": 250,
+    "category": "Police Duties",
+    "text": "This is where an officer is detailed to patrol a given area and to be at definite place at a definite time",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Aberdeen system"
+      },
+      {
+        "key": "B",
+        "text": "Abrading system"
+      },
+      {
+        "key": "C",
+        "text": "Fixed route system"
+      },
+      {
+        "key": "D",
+        "text": "Fixed price system"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 251,
+    "number": 251,
+    "category": "Police Duties",
+    "text": "What is the telegraphic address of Detective CollegeEnugu",
+    "choices": [
+      {
+        "key": "A",
+        "text": "DECOMPOL Enugu"
+      },
+      {
+        "key": "B",
+        "text": "DETECTPOL Enugu"
+      },
+      {
+        "key": "C",
+        "text": "DECOL Enugu"
+      },
+      {
+        "key": "D",
+        "text": "DECOLPOL Enugu"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 252,
+    "number": 252,
+    "category": "Police Duties",
+    "text": "The telegraphic address TRACPOL is for which among these police formations",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Railway police"
+      },
+      {
+        "key": "B",
+        "text": "Dog section"
+      },
+      {
+        "key": "C",
+        "text": "Police sports"
+      },
+      {
+        "key": "D",
+        "text": "Police workshop"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 253,
+    "number": 253,
+    "category": "Police Duties",
+    "text": "The telegraphic address BOMBPOL is meant for?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Police Armament Unit"
+      },
+      {
+        "key": "B",
+        "text": "Police Arms Disposal Unit"
+      },
+      {
+        "key": "C",
+        "text": "Police Bomb Disposal Unit"
+      },
+      {
+        "key": "D",
+        "text": "Police bomb Disagreement Unit"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 254,
+    "number": 254,
+    "category": "Police Duties",
+    "text": "The general duties of the Nigeria police force are contain in sec. 4 of the Police Act as follows except one?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "The prevention and detention of crime"
+      },
+      {
+        "key": "B",
+        "text": "The apprehension of offenders"
+      },
+      {
+        "key": "C",
+        "text": "The detention suspects for indefinite period"
+      },
+      {
+        "key": "D",
+        "text": "Protection of life and properties"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 255,
+    "number": 255,
+    "category": "Police Duties",
+    "text": "Other methods of reducing/preventing crime apart from the known beat patrol system are as follows except one",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Stop and watch"
+      },
+      {
+        "key": "B",
+        "text": "Surveillance"
+      },
+      {
+        "key": "C",
+        "text": "vigilante"
+      },
+      {
+        "key": "D",
+        "text": "Torturing of suspected criminal"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 256,
+    "number": 256,
+    "category": "Police Duties",
+    "text": "When a police officer blows three ling blast of whistle what does he need?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Calling for assistance"
+      },
+      {
+        "key": "B",
+        "text": "Calling for parade"
+      },
+      {
+        "key": "C",
+        "text": "Alerting others"
+      },
+      {
+        "key": "D",
+        "text": "Given signals to others"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 257,
+    "number": 257,
+    "category": "Police Duties",
+    "text": "A book issued to every Police Officer to enable him makes entries in connection with his duty is called",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Station diary"
+      },
+      {
+        "key": "B",
+        "text": "Routing diary"
+      },
+      {
+        "key": "C",
+        "text": "Pocket note book"
+      },
+      {
+        "key": "D",
+        "text": "Charges sheet register"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 258,
+    "number": 258,
+    "category": "Police Duties",
+    "text": "Below are the rules observes in keeping pocket notebook except:",
+    "choices": [
+      {
+        "key": "A",
+        "text": "No leave may be torn out"
+      },
+      {
+        "key": "B",
+        "text": "Entry must be start with date, time and place"
+      },
+      {
+        "key": "C",
+        "text": "What you see at the crime must not be recorded in the note book"
+      },
+      {
+        "key": "D",
+        "text": "No blank space"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 259,
+    "number": 259,
+    "category": "Police Duties",
+    "text": "Letter A, B and C in the duty roster means",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Morning, Afternoon and Night"
+      },
+      {
+        "key": "B",
+        "text": "All basic colleges"
+      },
+      {
+        "key": "C",
+        "text": "Night, Afternoon and Morning"
+      },
+      {
+        "key": "D",
+        "text": "Amambay Ballistic College"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 260,
+    "number": 260,
+    "category": "Police Duties",
+    "text": "An official documents containing all relevant information about an incident is called",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Pocket note book"
+      },
+      {
+        "key": "B",
+        "text": "Police report"
+      },
+      {
+        "key": "C",
+        "text": "Police gazette"
+      },
+      {
+        "key": "D",
+        "text": "Police Newsletter"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 261,
+    "number": 261,
+    "category": "Police Duties",
+    "text": "The book maintained at every police station or police post in which are recorded entries in connection with movement of police personnel and other public is called",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Station Diary"
+      },
+      {
+        "key": "B",
+        "text": "Station Crime Diary"
+      },
+      {
+        "key": "C",
+        "text": "Station Bulleting"
+      },
+      {
+        "key": "D",
+        "text": "Crime Bulleting"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 262,
+    "number": 262,
+    "category": "Police Duties",
+    "text": "Below are the rule of keeping a station diary except one:",
+    "choices": [
+      {
+        "key": "A",
+        "text": "No blank space should be left in the diary"
+      },
+      {
+        "key": "B",
+        "text": "There must be alteration/eraser"
+      },
+      {
+        "key": "C",
+        "text": "Red line drawn against an entry of important"
+      },
+      {
+        "key": "D",
+        "text": "Red line across the page at midnight of each day"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 263,
+    "number": 263,
+    "category": "Police Duties",
+    "text": "Entries made in the station diary are as follow except:",
+    "choices": [
+      {
+        "key": "A",
+        "text": "All lectures and parade held in the station"
+      },
+      {
+        "key": "B",
+        "text": "All complaints and report received at the station"
+      },
+      {
+        "key": "C",
+        "text": "Transfers of officer out of the command"
+      },
+      {
+        "key": "D",
+        "text": "Visit to prisoners in the cell"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 264,
+    "number": 264,
+    "category": "Police Duties",
+    "text": "Case files consists of the following except:",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Extra from crime dairy"
+      },
+      {
+        "key": "B",
+        "text": "Charge sheet to court"
+      },
+      {
+        "key": "C",
+        "text": "Minute sheet"
+      },
+      {
+        "key": "D",
+        "text": "Complaint statement"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 265,
+    "number": 265,
+    "category": "Police Duties",
+    "text": "The close and critical examination of a case file by superior Police in order to correct any anomaly is called",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Vetting of a case file"
+      },
+      {
+        "key": "B",
+        "text": "Exercising of seniority on case file"
+      },
+      {
+        "key": "C",
+        "text": "Checking of Extract record"
+      },
+      {
+        "key": "D",
+        "text": "Record of suspect inspection"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 266,
+    "number": 266,
+    "category": "Police Duties",
+    "text": "Which of these is a method of vetting a case file",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Ensuring that the title of the offence and the section of the law alleged contravened are congruent"
+      },
+      {
+        "key": "B",
+        "text": "The diary of action is in the case file jacket must be through scrutinized"
+      },
+      {
+        "key": "C",
+        "text": "Statement of the prosecution witness must be read to ensure that they are in conformity with or supply the alleged offence"
+      },
+      {
+        "key": "D",
+        "text": "All of the above"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 267,
+    "number": 267,
+    "category": "Police Duties",
+    "text": "These are qualities an investigator must develop to become an effective investigator and solves cases.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Communication and interview skills"
+      },
+      {
+        "key": "B",
+        "text": "Research skills"
+      },
+      {
+        "key": "C",
+        "text": "Knowledge of the law"
+      },
+      {
+        "key": "D",
+        "text": "All of the above"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 268,
+    "number": 268,
+    "category": "Police Duties",
+    "text": "The following are fundamental questions that need to be answered while taken statement from every witness except:",
+    "choices": [
+      {
+        "key": "A",
+        "text": "The date, time and location where the statement is being taken"
+      },
+      {
+        "key": "B",
+        "text": "The date, and time of the incident"
+      },
+      {
+        "key": "C",
+        "text": "The date, time and place where the witness got married"
+      },
+      {
+        "key": "D",
+        "text": "Where the witness was when the incident occurred"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 269,
+    "number": 269,
+    "category": "Police Duties",
+    "text": "What are the aims of vetting case file by an inspector crime?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Examine"
+      },
+      {
+        "key": "B",
+        "text": "Criticize"
+      },
+      {
+        "key": "C",
+        "text": "Advice"
+      },
+      {
+        "key": "D",
+        "text": "A,B, C and above"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 270,
+    "number": 270,
+    "category": "Police Duties",
+    "text": "____ is part of criminal records kept at the station",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Police Gazette"
+      },
+      {
+        "key": "B",
+        "text": "Station Diary"
+      },
+      {
+        "key": "C",
+        "text": "Pocket Notebook"
+      },
+      {
+        "key": "D",
+        "text": "The charge registers"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 271,
+    "number": 271,
+    "category": "Police Duties",
+    "text": "Minor offences records are except one:",
+    "choices": [
+      {
+        "key": "A",
+        "text": "station minor offences diary"
+      },
+      {
+        "key": "B",
+        "text": "Register of lost, stolen and recovered bicycles"
+      },
+      {
+        "key": "C",
+        "text": "Duty roster"
+      },
+      {
+        "key": "D",
+        "text": "Register of minor offence"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 272,
+    "number": 272,
+    "category": "Police Duties",
+    "text": "The below register has their serial numbers runs throughout the years except one:",
+    "choices": [
+      {
+        "key": "A",
+        "text": "The charge register"
+      },
+      {
+        "key": "B",
+        "text": "Exhibit register"
+      },
+      {
+        "key": "C",
+        "text": "Duty roster"
+      },
+      {
+        "key": "D",
+        "text": "The register of simple offence"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 273,
+    "number": 273,
+    "category": "Police Duties",
+    "text": "Police station is classified as",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Principal operational formation of the force"
+      },
+      {
+        "key": "B",
+        "text": "Parade ground of the force"
+      },
+      {
+        "key": "C",
+        "text": "Central store of the force"
+      },
+      {
+        "key": "D",
+        "text": "Police band of the force"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 274,
+    "number": 274,
+    "category": "Police Duties",
+    "text": "Below are the primary functions of a police station except one",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Maintain good relations with the public"
+      },
+      {
+        "key": "B",
+        "text": "Carry out general duties of the force"
+      },
+      {
+        "key": "C",
+        "text": "Extort money from the public"
+      },
+      {
+        "key": "D",
+        "text": "Maintain permanent records of every incident reported at the station."
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 275,
+    "number": 275,
+    "category": "Police Duties",
+    "text": "One of these is not an equipment to be carried when going on beats",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Baton"
+      },
+      {
+        "key": "B",
+        "text": "Touch lights"
+      },
+      {
+        "key": "C",
+        "text": "Whistle"
+      },
+      {
+        "key": "D",
+        "text": "Guider"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 276,
+    "number": 276,
+    "category": "Police Duties",
+    "text": "Under mentioned is action to be taken by charge room officer when Armory key is lost:",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Movement of every person at the charge room to be stop"
+      },
+      {
+        "key": "B",
+        "text": "Entry of the lost to made immediately in the routine diary"
+      },
+      {
+        "key": "C",
+        "text": "The old lock of the armory will immediately be replaced with new one"
+      },
+      {
+        "key": "D",
+        "text": "All of the above"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 277,
+    "number": 277,
+    "category": "Police Duties",
+    "text": "A police officer may use firearm under the following circumstances as stipulated in Force Order No 237 except one:",
+    "choices": [
+      {
+        "key": "A",
+        "text": "When his life is in danger"
+      },
+      {
+        "key": "B",
+        "text": "When pursue a yahoo boy"
+      },
+      {
+        "key": "C",
+        "text": "When defending a person who is been attacked"
+      },
+      {
+        "key": "D",
+        "text": "When necessary to disperse rioters"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 278,
+    "number": 278,
+    "category": "Police Duties",
+    "text": "____ is the placing of a similar age, heights, clothing, statues and general appearance to establish whether a witness can recognize him or not",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Sent forth Parade"
+      },
+      {
+        "key": "B",
+        "text": "Independence Parade"
+      },
+      {
+        "key": "C",
+        "text": "Observation Parade"
+      },
+      {
+        "key": "D",
+        "text": "Identification Parade"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 279,
+    "number": 279,
+    "category": "Police Duties",
+    "text": "These are the rules guiding the conduct of identification parade except:",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Command"
+      },
+      {
+        "key": "B",
+        "text": "Singing"
+      },
+      {
+        "key": "C",
+        "text": "Light"
+      },
+      {
+        "key": "D",
+        "text": "Composition"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 280,
+    "number": 280,
+    "category": "Police Duties",
+    "text": "Forms used for identification parade are below except",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Form D48"
+      },
+      {
+        "key": "B",
+        "text": "Form D47"
+      },
+      {
+        "key": "C",
+        "text": "Form D49"
+      },
+      {
+        "key": "D",
+        "text": "Form D50"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 281,
+    "number": 281,
+    "category": "Police Duties",
+    "text": "These are the types of surveillance except:",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Standing surveillance"
+      },
+      {
+        "key": "B",
+        "text": "Moving surveillance"
+      },
+      {
+        "key": "C",
+        "text": "Stationary surveillance"
+      },
+      {
+        "key": "D",
+        "text": "Electronic surveillance"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 282,
+    "number": 282,
+    "category": "Police Duties",
+    "text": "Information consists of the following except",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Facts"
+      },
+      {
+        "key": "B",
+        "text": "News"
+      },
+      {
+        "key": "C",
+        "text": "Knowledge of accusation gathered through intelligence"
+      },
+      {
+        "key": "D",
+        "text": "Phone calls"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 283,
+    "number": 283,
+    "category": "Police Duties",
+    "text": "Ways through which information can get to Police are as follows except:",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Eye witness"
+      },
+      {
+        "key": "B",
+        "text": "Suspects"
+      },
+      {
+        "key": "C",
+        "text": "Baggers"
+      },
+      {
+        "key": "D",
+        "text": "Magistrate"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 284,
+    "number": 284,
+    "category": "Police Duties",
+    "text": "Points to considered before bail is granted includes",
+    "choices": [
+      {
+        "key": "A",
+        "text": "The sufficiency of the sureties are required"
+      },
+      {
+        "key": "B",
+        "text": "The nature and weight of evidence in support of the charge"
+      },
+      {
+        "key": "C",
+        "text": "The probability of the accused appearance at the trial"
+      },
+      {
+        "key": "D",
+        "text": "All of the above"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 285,
+    "number": 285,
+    "category": "Police Duties",
+    "text": "A police officer can handcuff a prisoner as stipulated in section 4 CPA and Force Order No. 237 except one:",
+    "choices": [
+      {
+        "key": "A",
+        "text": "By order of the court"
+      },
+      {
+        "key": "B",
+        "text": "When there is no violence"
+      },
+      {
+        "key": "C",
+        "text": "When there is attempt to escape"
+      },
+      {
+        "key": "D",
+        "text": "When escorting prisoners from one place to another"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 286,
+    "number": 286,
+    "category": "Police Duties",
+    "text": "Head Dress Beret colours that are approved for formation of the NPF are stated below except one:",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Black"
+      },
+      {
+        "key": "B",
+        "text": "Yellow"
+      },
+      {
+        "key": "C",
+        "text": "Green"
+      },
+      {
+        "key": "D",
+        "text": "White"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 287,
+    "number": 287,
+    "category": "Police Duties",
+    "text": "What is the Head Dress on peak cap of IGP-CP",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Two rows of oak leaf, silver lace on peak, the band to the black oak braid"
+      },
+      {
+        "key": "B",
+        "text": "One rows of oak leaf, silver lace on peak"
+      },
+      {
+        "key": "C",
+        "text": "Silver embroidery edged silver cord on peak, the brands to the black oak leaf braid"
+      },
+      {
+        "key": "D",
+        "text": "Plain black"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 288,
+    "number": 288,
+    "category": "Police Duties",
+    "text": "What is the cap Badges for IGP",
+    "choices": [
+      {
+        "key": "A",
+        "text": "With four lines of laurel wreath"
+      },
+      {
+        "key": "B",
+        "text": "With three lines of laurel wreath"
+      },
+      {
+        "key": "C",
+        "text": "With two lines of laurel wreath"
+      },
+      {
+        "key": "D",
+        "text": "Ordinary woven cap badges"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 289,
+    "number": 289,
+    "category": "Police Duties",
+    "text": "One of the below ranks can held Area Command headquarters",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Commissioner of police"
+      },
+      {
+        "key": "B",
+        "text": "Assistant Commissioner of police"
+      },
+      {
+        "key": "C",
+        "text": "Deputy Commissioner of police"
+      },
+      {
+        "key": "D",
+        "text": "Chief Superintendent of police"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 291,
+    "number": 291,
+    "category": "Police Duties",
+    "text": "Exhibit can be sources for in the following ways except one:",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Through an accuse person"
+      },
+      {
+        "key": "B",
+        "text": "Complainant"
+      },
+      {
+        "key": "C",
+        "text": "Witness"
+      },
+      {
+        "key": "D",
+        "text": "Recruitment"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 292,
+    "number": 292,
+    "category": "Police Duties",
+    "text": "Which of these departments can give analysis of fire arms, ammunitions?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Ballistic section"
+      },
+      {
+        "key": "B",
+        "text": "Fingerprints section"
+      },
+      {
+        "key": "C",
+        "text": "Chemist section"
+      },
+      {
+        "key": "D",
+        "text": "Forensic laboratory"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 293,
+    "number": 293,
+    "category": "Police Duties",
+    "text": "Below are sign and symptoms of drunken person except:",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Breath smell of drink"
+      },
+      {
+        "key": "B",
+        "text": "Pulse accelerated"
+      },
+      {
+        "key": "C",
+        "text": "The style of walk"
+      },
+      {
+        "key": "D",
+        "text": "Singing and dancing"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 294,
+    "number": 294,
+    "category": "Police Duties",
+    "text": "The telegraphic address of Inspector General of police is",
+    "choices": [
+      {
+        "key": "A",
+        "text": "COMPOL"
+      },
+      {
+        "key": "B",
+        "text": "AIGPOL"
+      },
+      {
+        "key": "C",
+        "text": "INGENPOL"
+      },
+      {
+        "key": "D",
+        "text": "DIGPOL"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 295,
+    "number": 295,
+    "category": "Police Duties",
+    "text": "The telegraphic address of Police Children Secondary School is?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "PENCIL"
+      },
+      {
+        "key": "B",
+        "text": "CHALK"
+      },
+      {
+        "key": "C",
+        "text": "POLAC"
+      },
+      {
+        "key": "D",
+        "text": "DETCOL"
+      }
+    ],
+    "answer": "A",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 296,
+    "number": 296,
+    "category": "Police Duties",
+    "text": "Which department of the force can you enquiries for transfer and promotion of rank and file",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Finance and administration (budget section)"
+      },
+      {
+        "key": "B",
+        "text": "Finance and administration (welfare)"
+      },
+      {
+        "key": "C",
+        "text": "Logistic and Supply"
+      },
+      {
+        "key": "D",
+        "text": "Finance and administration (sports)"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 297,
+    "number": 297,
+    "category": "Police Duties",
+    "text": "All of the below are apparatus of police officer except?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Sword"
+      },
+      {
+        "key": "B",
+        "text": "Swagger cane"
+      },
+      {
+        "key": "C",
+        "text": "Baton"
+      },
+      {
+        "key": "D",
+        "text": "Cutlass"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 298,
+    "number": 298,
+    "category": "Police Duties",
+    "text": "Swagger cane cannot be carry during the following period except one",
+    "choices": [
+      {
+        "key": "A",
+        "text": "At night time"
+      },
+      {
+        "key": "B",
+        "text": "When carrying Arms"
+      },
+      {
+        "key": "C",
+        "text": "During match past"
+      },
+      {
+        "key": "D",
+        "text": "When driving"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 299,
+    "number": 299,
+    "category": "Police Duties",
+    "text": "Which of the following is not part of the parade faces:",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Right"
+      },
+      {
+        "key": "B",
+        "text": "Left"
+      },
+      {
+        "key": "C",
+        "text": "Advance"
+      },
+      {
+        "key": "D",
+        "text": "Bending"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 300,
+    "number": 300,
+    "category": "Police Duties",
+    "text": "The main parts of words of command are as follows except one:",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Introduction"
+      },
+      {
+        "key": "B",
+        "text": "Cautionary"
+      },
+      {
+        "key": "C",
+        "text": "Commanding"
+      },
+      {
+        "key": "D",
+        "text": "Executives"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 301,
+    "number": 301,
+    "category": "Police Duties",
+    "text": "Which among these does not makes the parts of swagger cane?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Knob"
+      },
+      {
+        "key": "B",
+        "text": "Buff"
+      },
+      {
+        "key": "C",
+        "text": "Band"
+      },
+      {
+        "key": "D",
+        "text": "Feral"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 302,
+    "number": 302,
+    "category": "Police Duties",
+    "text": "Apparatus for fingerprints are as follows except one:",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Slab"
+      },
+      {
+        "key": "B",
+        "text": "Roller"
+      },
+      {
+        "key": "C",
+        "text": "Printers black ink"
+      },
+      {
+        "key": "D",
+        "text": "Carbon paper"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 303,
+    "number": 303,
+    "category": "Police Duties",
+    "text": "Objectives of surveillance includes the following except",
+    "choices": [
+      {
+        "key": "A",
+        "text": "For elimination purpose"
+      },
+      {
+        "key": "B",
+        "text": "For future identification"
+      },
+      {
+        "key": "C",
+        "text": "To finalize the disposal of cases against person known or suspect to be wanted person."
+      },
+      {
+        "key": "D",
+        "text": "For elimination of exhibits"
+      }
+    ],
+    "answer": "D",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 304,
+    "number": 304,
+    "category": "Police Duties",
+    "text": "Reason for taken fingerprints of a dead bodies are as stated below except:",
+    "choices": [
+      {
+        "key": "A",
+        "text": "For elimination purpose"
+      },
+      {
+        "key": "B",
+        "text": "For future identification"
+      },
+      {
+        "key": "C",
+        "text": "To finalize the disposal of cases against person known or suspect to be wanted person."
+      },
+      {
+        "key": "D",
+        "text": "For elimination of exhibits"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 305,
+    "number": 305,
+    "category": "Police Duties",
+    "text": "Identification parade can be conduct by",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Voice"
+      },
+      {
+        "key": "B",
+        "text": "Flesh"
+      },
+      {
+        "key": "C",
+        "text": "Legs"
+      },
+      {
+        "key": "D",
+        "text": "Physical"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 306,
+    "number": 306,
+    "category": "Police Duties",
+    "text": "All the police criminals records runs serially throughout the year except one:",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Charge register"
+      },
+      {
+        "key": "B",
+        "text": "Station routine diary"
+      },
+      {
+        "key": "C",
+        "text": "Missing person register"
+      },
+      {
+        "key": "D",
+        "text": "Exhibit register"
+      }
+    ],
+    "answer": "B",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 307,
+    "number": 307,
+    "category": "Police Duties",
+    "text": "The punishment for the charge of felony is?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "12 years"
+      },
+      {
+        "key": "B",
+        "text": "7 years"
+      },
+      {
+        "key": "C",
+        "text": "14 years"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 308,
+    "number": 308,
+    "category": "Police Duties",
+    "text": "_____ is a file of a parade squad where there is no centre and rear man due to inequality of the number of men on parade.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Single black file"
+      },
+      {
+        "key": "B",
+        "text": "Double black file"
+      },
+      {
+        "key": "C",
+        "text": "Rear man"
+      }
+    ],
+    "answer": "C",
+    "confidence": "high",
+    "note": "",
+    "practice": false
+  },
+  {
+    "id": 309,
+    "number": 309,
+    "category": "Police Duties",
+    "text": "Where will you send fingerprint impressions for scientific aid during investigation?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Fingerprints section"
+      },
+      {
+        "key": "B",
+        "text": "Ballistic section"
+      },
+      {
+        "key": "C",
+        "text": "Chemist section"
+      },
+      {
+        "key": "D",
+        "text": "Forensic laboratory"
+      }
+    ],
+    "answer": "A",
+    "confidence": "low",
+    "note": "Option labels were garbled in source; reconstructed.",
+    "practice": false
   }
 ]
